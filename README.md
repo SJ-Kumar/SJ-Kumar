@@ -1,6 +1,6 @@
 <div align="left">
 - 👋 Hi, I’m @SJ-Kumar <br>
-- 👀 I’m interested in Python, Java and all latest frameworks.<br>
+- 👀 I’m interested in Python, Javascript and all latest frameworks.<br>
 - 🌱 I’m currently learning Javascript.<br>
 - 💞️ I’m looking to collaborate on applications being developed using python.<br>
 - 📫 You can ping me at any online means.<br>
