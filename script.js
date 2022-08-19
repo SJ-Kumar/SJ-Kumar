@@ -82,10 +82,10 @@ function waitAndResponce(inputText) {
             sendTextMessage(resumeString);
             break;
         case "skills":
-            sendTextMessage("<span class='sk'>I am currently a second year CSE Graduate at VIT Chennai<br><br>I can comfortably write code in following languages :<br><span class='bold'>Python<br>C++<br>CSS<br>HTML<br>Javascript</span><br><br>I've experiance with following frameworks :<span class='bold'><br>Django<br>ReactJs<br>Bootstrap</span><br>Favourite IDE:<span class='bold'>VSCode</span></span>");
+            sendTextMessage("<span class='sk'>I am currently a second year CSE Graduate at VIT Chennai<br><br>I can comfortably write code in the following languages:<br><span class='bold'>Python<br>C++<br>CSS<br>HTML<br>Javascript</span><br><br>I've experiance with following frameworks :<span class='bold'><br>Django<br>ReactJs<br>Bootstrap</span><br>Favourite IDE:<span class='bold'>VSCode</span></span>");
             break;
         case "education":
-            sendTextMessage("I am doing my Btech in VIT Chennai <br>Passing Year : 2025<br><br>I have completed my Secondary school from CMR National Public School<br>Passing Year:2019");
+            sendTextMessage("I am doing my BTech in VIT Chennai <br>Passing Year : 2025<br><br>I have completed my Secondary school from CMR National Public School<br>Passing Year:2019");
             break;
 
         case "address":
@@ -95,20 +95,20 @@ function waitAndResponce(inputText) {
             clearChat();
             break;
         case "about":
-            sendTextMessage("🛠️💻 This portfolio website is built using HTML, CSS and JavaScript from SCRATCH!<br><br>👨🏻‍💻 Designed and Developed by <a class='alink' target='_blank' href='https://www.linkedin.com/in/jayanth-kumar-91947b220/'><span class='bold'>Jayanth Kumar</a> with hardwork </span>");
+            sendTextMessage("🛠️💻 This portfolio website is built using HTML, CSS, and JavaScript from SCRATCH!<br><br>👨🏻‍💻 Designed and Developed by <a class='alink' target='_blank' href='https://www.linkedin.com/in/jayanth-kumar-91947b220/'><span class='bold'>Jayanth Kumar</a> with hardwork </span>");
             break;
         case "contact":
             sendTextMessage(contactString);
             break;
         case "projects":
-            sendTextMessage("You want to check my projects? Then just jump into my Github Account.<br><br><div class='social'><a target='_blank' href='https://github.com/SJ-Kumar'> <div class='socialItem'><img class='socialItemI' src='images/github.svg' alt=''></div> </a></div>");
+            sendTextMessage("You want to check my projects? Then, just jump into my Github Account.<br><br><div class='social'><a target='_blank' href='https://github.com/SJ-Kumar'> <div class='socialItem'><img class='socialItemI' src='images/github.svg' alt=''></div> </a></div>");
             break;
         case "new":
             sendTextMessage(addressString);
             break;
         default:
             setTimeout(() => {
-                sendTextMessage("Hey I couldn't catch you...😢<br>Send 'help' to know more about usage.");
+                sendTextMessage("Hey I couldn't catch you...😢<br>Type 'help' to know more about usage.");
             }, 2000);
             break;
     }
