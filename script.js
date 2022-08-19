@@ -1,5 +1,5 @@
 var audio = new Audio('C:\ALL PROOFS\tune.mp3');
-var contactString = "<div class='social'> <a href='mailto:jayanthkumar597@gmail.com'> <div class='socialItem'><img class='socialItemI' src='images/gmail.svg' alt=''></div> </a> <a target='_blank' href='https://github.com/SJ-Kumar'> <div class='socialItem'><img class='socialItemI' src='images/github.svg' alt=''></div> </a> ><a href='https://www.linkedin.com/in/jayanth-kumar-91947b220/' target='_blank' rel='noopener noreferrer'> <div class='socialItem'><img class='socialItemI' src='images/linkedin.svg' alt=''></div> </a> </div>";
+var contactString = "<div class='Gmail'> <a href='mailto:jayanthkumar597@gmail.com'><label>Jayanth Kumar's Gmail</label> <div class='Github'> <a href='https://github.com/SJ-Kumar'><label>Jayanth Kumar's GitHub</label> <div class='Linkedin'><a href='https://www.linkedin.com/in/jayanth-kumar-91947b220/'><label>Jayanth Kumar's Linkedin</label>"
 var resumeString = "<div class='resume'> <a href='https://github.com/SJ-Kumar/Resume'><label>Jayanth Kumar's Resume</label>"
 function startFunction() {
     setLastSeen();
@@ -97,7 +97,7 @@ function waitAndResponce(inputText) {
             sendTextMessage(contactString);
             break;
         case "projects":
-            sendTextMessage("You want to check my projects? Then, just jump into my Github Account.<br><br><div class='social'><a target='_blank' href='https://github.com/SJ-Kumar'> <div class='socialItem'><img class='socialItemI' src='images/github.svg' alt=''></div> </a></div>");
+            sendTextMessage("You want to check my projects? Then, just jump into my Github Account.<br><br><div class='social'> <a href='https://github.com/SJ-Kumar?tab=repositories'><label>My Projects in GitHub </label>");
             break;
         case "new":
             sendTextMessage(addressString);
