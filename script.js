@@ -1,7 +1,6 @@
 var audio = new Audio('C:\ALL PROOFS\tune.mp3');
 var contactString = "<div class='social'> <a href='mailto:jayanthkumar597@gmail.com'> <div class='socialItem'><img class='socialItemI' src='images/gmail.svg' alt=''></div> </a> <a target='_blank' href='https://github.com/SJ-Kumar'> <div class='socialItem'><img class='socialItemI' src='images/github.svg' alt=''></div> </a> ><a href='https://www.linkedin.com/in/jayanth-kumar-91947b220/' target='_blank' rel='noopener noreferrer'> <div class='socialItem'><img class='socialItemI' src='images/linkedin.svg' alt=''></div> </a> </div>";
 var resumeString = "<div class='resume'> <a href='https://github.com/SJ-Kumar/Resume'><label>Jayanth Kumar's Resume</label>"
-var addressString = "<div class='mapview'><iframe src='https://www.google.com/maps/place/Obel+Banjara+Apartment/@13.0315751,77.6603329,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae10cf24d027e3:0x2a019676f1ba1c05!8m2!3d13.0315759!4d77.6625198' class='map'></iframe></div><label class='add'><address>Bangalore, Karnataka, INDIA 560043</address>";
 function startFunction() {
     setLastSeen();
     waitAndResponce("intro");
@@ -87,10 +86,7 @@ function waitAndResponce(inputText) {
         case "education":
             sendTextMessage("I am doing my Btech in VIT Chennai <br>Passing Year : 2025<br><br>I have completed my Secondary school from CMR National Public School<br>Passing Year:2019");
             break;
-
-        case "address":
-            sendTextMessage(addressString);
-            break;
+            
         case "clear":
             clearChat();
             break;
