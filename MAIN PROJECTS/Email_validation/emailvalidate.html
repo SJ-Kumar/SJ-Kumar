@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+    <script>
+        var inputData = [{ username: "jayanth", userpassword: "jayanth@123", useremail: "jayanth@gmail.com" },
+        { username: "suchi", userpassword: "suchi@123", useremail: "suchi@gmail.com" },
+        { username: "babu", userpassword: "babu@123", useremail: "babu@gmail.com" }]
+
+        function userLogin() {
+            var inputUsername = document.getElementById("uname").value;
+            var inputPassword = document.getElementById("upass").value;
+            var outputData = document.getElementById("res");
+            if (inputUsername == null && inputPassword == null || inputUsername == "" && inputPassword == "") {
+                var user = "Please enter the username & password.";
+                outputData.style.color = "red";
+                outputData.innerHTML = user;
+                return false;
+            }
+            if (inputUsername == null || inputUsername == "") {
+                var user = "Please enter the username.";
+                outputData.style.color = "red";
+                outputData.innerHTML = user;
+                return false;
+            }
+            if (inputPassword == null || inputPassword == "") {
+                var user = "Please enter the password.";
+                outputData.style.color = "red";
+                outputData.innerHTML = user;
+                return false;
+            }
+
+            var isMatch = false;
+            for (i = 0; i < inputData.length; i++) {
+                if ((inputUsername == inputData[i].username) && (inputPassword == inputData[i].userpassword)) {
+                    console.log(inputUsername + " is Logged in !!!")
+                   
+                    isMatch = true;
+                    break;
+                }
+            }
+
+            if(isMatch)
+            {
+                var user = "Successfully Login";
+                    outputData.style.color = "green";
+                    outputData.innerHTML = user;
+                    window.location.href = "email-validation.html";
+            }
+            else {
+                console.log("Incorrect Username or Passwerd");
+            var user = "Invalid credentials";
+            outputData.style.color = "red";
+            outputData.innerHTML = user;
+            }
+            
+
+        }
+    </script>
+</head>
+
+<body>
+    <div class="login-box">
+        <img src="user.png" class="avatar">
+        <h1>Login Here</h1>
+        <form>
+            <p>Username</p>
+            <input type="text" id="uname" name="username" placeholder="Enter Username">
+            <p>Password</p>
+            <input type="password" id="upass" name="password" placeholder="Enter Password">
+            <input type="button" name="submit" value="Login" onclick="userLogin()">
+            <!-- <a href="#">Forget Password</a> -->
+            <center><span id="res"></span></center>
+        </form>
+
+
+    </div>
+</body>
+
+</html>
