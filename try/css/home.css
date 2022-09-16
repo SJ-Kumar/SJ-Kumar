@@ -1,0 +1,61 @@
+.bg-image {
+  background-image: url('../images/back.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+
+.logo-heading {
+  text-align: center;
+  width: ;
+}
+
+.donation {
+  text-align: center;
+  width: 49%;
+  margin: 75px auto 0px;
+}
+
+.donation p {
+  font-family: 'Anton', sans-serif;
+  font-size: 22px;
+  color:antiquewhite
+}
+
+hr {
+  width: 30%;
+  margin: 16px auto 16px;
+  height: 3px !important;
+}
+
+
+
+
+{
+
+  hr {
+    width: 50%;
+  }
+}
+
+@media screen and (max-device-width: 500px) {
+  .donation {
+    width: 65%;
+  }
+
+  .bg-image {
+    background-image: url('../images/back.jpg');
+  }
+}
+footer {
+
+  text-align: center;
+
+  padding: 3px;
+
+  background-color: rgb(235, 195, 181);
+
+  color: white;
+
+}  
