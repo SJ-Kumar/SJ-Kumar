@@ -48,8 +48,56 @@
 
     <div class="donation">
       <p>The over-all objective of the SaveCinema is service to the ones who are working so hard to entertain us. It attempts to arouse the social conscience of cinema lovers, creatively and constructively.</p>
+      <button id="rzp-button1">Donate</button>
+      <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+
+<script>
+  
+var options = {
+  "key": "rzp_test_j6jPm19mqd9oul", // Enter the Key ID generated from the Dashboard
+  "amount": "500", // Amount is in currency subunits. Default currency is INR. Hence, 50000 refers to 50000 paise
+  "currency": "INR",
+  "name": "SaveCinema",
+  "description": "SaveCinema Test Transaction",
+  "image": "https://github.com/SJ-Kumar/SJ-Kumar.github.io/blob/main/Spark-Tasks/images/cineimg.jpg",
+  "order_id": "order_KIvCeBvEPX4ZBC", //This is a sample Order ID. Pass the `id` obtained in the response of Step 1
+  "handler": function (response){
+    alert(response.razorpay_payment_id);
+    alert(response.razorpay_order_id);
+    alert(response.razorpay_signature)
+  },
+  "prefill": {
+    "name": "Jayanth Kumar",
+    "email": "jayanthkumar597@gmail.com",
+    "contact": "9499905475"
+  },
+  "notes": {
+    "address": "Razorpay Corporate Office"
+  },
+  "theme": {
+    "color": "#3399cc"
+  }
+};
+var rzp1 = new Razorpay(options);
+rzp1.on('payment.failed', function (response){
+  alert(response.error.code);
+  alert(response.error.description);
+  alert(response.error.source);
+  alert(response.error.step);
+  alert(response.error.reason);
+  alert(response.error.metadata.order_id);
+  alert(response.error.metadata.payment_id);
+});
+document.getElementById('rzp-button1').onclick = function(e){
+  rzp1.open();
+  e.preventDefault();
+}
+</script>  
+  
+  
+  
       <hr>
-      <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_KIbzqru6cHHbB7" async> </script> </form>
+      <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_KIeZvWGmVjtFOy" async> </script> </form>
     </div>
   </div>
   
