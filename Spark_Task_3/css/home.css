@@ -29,8 +29,38 @@ hr {
   height: 3px !important;
 }
 
+@keyframes spin {
+  from {
+    transform: rotateY(0deg);
+    ms-transform: rotateY(0deg); //Microsoft Browsers
+  }
 
+  to {
+    transform: rotateY(360deg);
+    ms-transform: rotateY(360deg); //Microsoft Browsers
+  }
+}
 
+@-webkit-keyframes spin {
+  from {
+    -webkit-transform: rotateY(0deg);
+  }
+
+  to {
+    -webkit-transform: rotateY(360deg);
+  }
+}
+
+.imageSpin {
+  animation-name: spin;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-duration: 5s;
+  -webkit-animation-name: spin;
+  -webkit-animation-timing-function: linear;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-duration: 5s;
+}
 
 {
 
@@ -54,7 +84,7 @@ footer {
 
   padding: 3px;
 
-  background-color: rgb(235, 195, 181);
+  background-color: rgb(170, 14, 30);
 
   color: white;
 

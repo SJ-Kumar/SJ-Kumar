@@ -1,4 +1,4 @@
-var audio = new Audio('C:\ALL PROOFS\tune.mp3');
+var audio = new Audio('C:\Code\SJ-Kumar.github.io\Chat profile portfolio\tune.mp3');
 var contactString = "<div class='Gmail'> <a href='mailto:jayanthkumar597@gmail.com'><label>Jayanth Kumar's Gmail</label> <div class='Github'> <a href='https://github.com/SJ-Kumar'><label>Jayanth Kumar's GitHub</label> <div class='Linkedin'><a href='https://www.linkedin.com/in/jayanth-kumar-91947b220/'><label>Jayanth Kumar's Linkedin</label>"
 var resumeString = "<div class='resume'> <a href='https://github.com/SJ-Kumar/Resume'><label>Jayanth Kumar's Resume</label>"
 function startFunction() {
@@ -13,23 +13,7 @@ function setLastSeen() {
 }
 
 
-function closeFullDP() {
-    var x = document.getElementById("fullScreenDP");
-    if (x.style.display === 'flex') {
-        x.style.display = 'none';
-    } else {
-        x.style.display = 'flex';
-    }
-}
 
-function openFullScreenDP() {
-    var x = document.getElementById("fullScreenDP");
-    if (x.style.display === 'flex') {
-        x.style.display = 'none';
-    } else {
-        x.style.display = 'flex';
-    }
-}
 
 
 function isEnter(event) {
@@ -62,7 +46,6 @@ function sendMsg() {
     s.scrollTop = s.scrollHeight;
     setTimeout(function () { waitAndResponce(ti) }, 1500);
     input.value = "";
-    playSound();
 }
 
 function waitAndResponce(inputText) {
@@ -139,7 +122,6 @@ function sendTextMessage(textToSend) {
     document.getElementById("listUL").appendChild(myLI);
     var s = document.getElementById("chatting");
     s.scrollTop = s.scrollHeight;
-    playSound();
 }
 
 
@@ -161,9 +143,5 @@ function sendResponse() {
     document.getElementById("listUL").appendChild(myLI);
     var s = document.getElementById("chatting");
     s.scrollTop = s.scrollHeight;
-    playSound();
 }
 
-function playSound() {
-    audio.play();
-}
