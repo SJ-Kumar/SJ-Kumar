@@ -1,0 +1,32 @@
+#name of the action
+name : Temperature
+
+#on the following events, the workflow is triggered
+on:
+  # a cron job runs at scheduled intervals, here runs at the start of every hour
+  #uncomment this to run the cron job
+  #   schedule:
+  #     - cron : '0 * * * *'
+  #writing this allows the user to manually run the workflow
+  workflow_dispatch:
+  
+jobs:
+  #name of the job that is run
+  temperature:
+    #an ubuntu virtual machine is created for the workflow to run
+    runs-on: ubuntu-latest
+    steps:        
+    #this is the action to checkout code, find more at https://github.com/actions/checkout
+    - uses: actions/checkout@v2
+    - name: Write temperature
+      #the script to get the temperature and write it into a file
+      run: |
+        python get_temperature.py
+    
+    #this is the action to commit files added/modified during the workflow
+    #find more at : https://github.com/EndBug/add-and-commit
+    #if there is a change to any files or new files added, the code will be committed.
+    - uses: EndBug/add-and-commit@v8
+      with:
+          author_name: Jayanth #replace it with your name
+          message : Temperature written
