@@ -8,7 +8,9 @@ from github import Github
 #imports
 #pip3/pip install PyGithub is installed to work with the contents of the Github repositories
 
-username = sys.argv[1]
+#username = sys.argv[1]
+username = input ("Type the github username")
+print (username)
 #reading the username as a commandline argument
 
 url = f"https://api.github.com/users/{username}"
