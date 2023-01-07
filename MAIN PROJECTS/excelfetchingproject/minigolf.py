@@ -3,6 +3,7 @@ import numpy as np
 import seaborn as sns
 import csv
 import matplotlib.pyplot as plt
+
 col_names = ['Player'] + [f'Hole {i}' for i in range(1, 17)]
 df = pd.read_csv("C:\DemoProject\DemoProject\excelfetchingproject\minigolf16.csv", header=None, index_col=0, names=col_names)
 print(df)
