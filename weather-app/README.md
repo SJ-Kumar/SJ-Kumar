@@ -45,3 +45,7 @@ Any feature requests and pull requests are welcome!
 ## License
 
 The project is under [MIT license](https://choosealicense.com/licenses/mit/).
+
+
+
+## 5-Feb - Deployed in https://sj-kumar.netlify.app/ using my email account. Home page not displaying as expected---need to debug and check if it is reading the new API key added. 
