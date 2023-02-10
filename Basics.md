@@ -1,13 +1,13 @@
 
 
 
-**API Hub
+***API Hub
 
 API Hub is a platform that acts as a centralized location for all your APIs.
 It makes it simpler to manage and reuse existing APIs. It consolidates and organizes information about all the APIs in your company.
 This avoids duplication of APIs and makes them easier to track.
 
-Benefits of an API Hub
+***Benefits of an API Hub
 
 - Increased API discoverability and documentation
 - Better API version control
