@@ -22,7 +22,7 @@ Check the current weather on any city on the planet. Switch between metric and i
 
 ## Installation
 
-1. `git clone https://github.com/madzadev/weather-app.git`
+1. `git clone https://github.com/sj-kumar/weather-app.git`
 
 2. `cd weather-app`
 
@@ -45,3 +45,7 @@ Any feature requests and pull requests are welcome!
 ## License
 
 The project is under [MIT license](https://choosealicense.com/licenses/mit/).
+
+
+
+## 5-Feb - Deployed in https://sj-kumar.netlify.app/ using my email account. Home page not displaying as expected---need to debug and check if it is reading the new API key added. 
