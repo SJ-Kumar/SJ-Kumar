@@ -2,6 +2,8 @@
 Profile Page
 https://profile-git-main-sj-kumar.vercel.app/
 
+Json Profile Page
+https://registry.jsonresume.org/SJ-Kumar
 
 
 ## License
