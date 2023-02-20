@@ -8,6 +8,20 @@ https://registry.jsonresume.org/SJ-Kumar
 AI Chat
 https://sj-kumar.github.io/AIchat/client/
 
+FrontEnd:-Bakery
+https://sj-kumar.github.io/Frontend/Bakery/index.html
+
+FrontEnd:-Company
+https://sj-kumar.github.io/Frontend/Company/index.html
+
+SparkTest
+https://sj-kumar.github.io/Spark_Task_3/index.html
+
+ChatProfile
+https://sj-kumar.github.io/Chat%20profile%20portfolio/index.html
+
+
+
 
 ## License
 MIT
