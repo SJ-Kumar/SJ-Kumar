@@ -5,6 +5,9 @@ https://profile-git-main-sj-kumar.vercel.app/
 Json Profile Page
 https://registry.jsonresume.org/SJ-Kumar
 
+AI Chat
+https://sj-kumar.github.io/AIchat/client/
+
 
 ## License
 MIT
