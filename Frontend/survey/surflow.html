@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script>
+      mermaid.initialize({
+        startOnLoad: true
+      });
+    </script>
+  </head>
+  <body>
+    <div class="mermaid">
+      graph TD;
+        Survey_ID -->|Primary Key| Geospatial_Coordinates;
+        Geospatial_Coordinates -->|String| Crop_Type;
+        Crop_Type -->|String| Irrigation_System;
+        Irrigation_System -->|String| Village_Name;
+        Village_Name -->|String| Village_Population;
+        Village_Population -->|Integer| Village_Features;
+    </div>
+  </body>
+</html>
