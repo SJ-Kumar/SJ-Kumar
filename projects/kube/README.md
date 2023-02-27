@@ -7,6 +7,8 @@
 
     - Then, I pushed it into the Docker hub. [Here](https://hub.docker.com/repository/docker/bhairavisanskriti/my-portfolio) it is.
         ![image](https://user-images.githubusercontent.com/106534693/196607315-60f34909-bff9-43d8-8b44-7de4ab174676.png)
+        ![image](https://user-images.githubusercontent.com/90379900/221424052-c52dddb8-ae22-4bc7-ae3a-1128e3ddd486.png)
+
    
       
   - ## Deployment:
