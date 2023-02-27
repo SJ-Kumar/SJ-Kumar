@@ -1,7 +1,6 @@
 # SJ-Kumar.github.io
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
-
 <div align="left">
 - 👋 Hi, I’m @SJ-Kumar <br>
 - 👀 I’m interested in Python, Java and all latest frameworks.<br>
@@ -119,8 +118,6 @@ https://sj-kumar.github.io/Spark_Task_3/index.html
 
 ChatProfile
 https://sj-kumar.github.io/Chat%20profile%20portfolio/index.html
-
-
 
 ## License
 MIT
