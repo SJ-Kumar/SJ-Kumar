@@ -1,4 +1,102 @@
-# SJ-Kumar.github.io
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+<div align="left">
+- 👋 Hi, I’m @SJ-Kumar <br>
+- 👀 I’m interested in Python, Java and all latest frameworks.<br>
+- 🌱 I’m currently learning Java.<br>
+- 💞️ I’m looking to collaborate on applications being developed using python.<br>
+- 📫 You can ping me at any online means.<br>
+
+ <br>
+ 
+![visitors](https://komarev.com/ghpvc/?username=SJ-Kumar&style=flat-square&label=Visitors&color=5d9732)
+
+<br/>
+
+<h3 align="center" style="color:yellow;margin-bottom: 15px;" >Deeply exploring with⚒️</h3> 
+<div align="center">
+
+[![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/Javascript-facf43?style=for-the-badge&logo=javascript&logoColor=white)](#) [![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=white")](#) [![MySQL Badge](https://img.shields.io/badge/MySQL-ff7926?style=for-the-badge&logo=mysql&logoColor=white)](#)   [<img src="https://img.shields.io/badge/Java-b0331a?style=for-the-badge&logo=java&logoColor=white">](#) [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) 
+
+</div>
+<h3 align="center" style="color:yellow;margin-bottom: 15px;"  >Pipeline technologies... 👨‍💻 :</h3>  
+<p align="center">
+  <img src="https://img.shields.io/badge/React-2d73e3?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Node%20Js-398726?style=for-the-badge&logo=node-dot-js&logoColor=white">
+
+  
+  <br />
+  
+<h3 align="center" style="color:yellow;margin-bottom: 15px;"  > Libraries & Framework :</h3>
+<div align="center">
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+</div>
+
+<h3 align="center" style="color:yellow;margin-bottom: 15px;"  > DevOps & Cloud Tools:</h3>
+<div align="center">
+
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
+</div>
+
+<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Let's Connect 
+</h3>
+<div align="center" >
+
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat&labelColor=white&logo=github&logoColor=black)](https://github.com/SJ-Kumar)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=white&logo=twitter&logoColor=1ca0f1&link=https://twitter.com/Jayanth_2003)](https://twitter.com/Jayanth_2003)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=white&logo=linkedin&logoColor=0e76a8)](https://www.linkedin.com/in/jayanth-kumar-91947b220/)
+  <br>
+[![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=white&logo=gmail&logoColor=c0392b)](mailto:jayanthkumar597@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat&labelColor=white&logo=whatsapp&logoColor=green)](https://wa.me/9499905475/?text=Hi%20Jayanth)
+</p>  
+<br/>
+<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Coding Profiles</h3>  
+<div align="center" >
+
+[![Codechef Badge](https://img.shields.io/badge/Codechef-5B4638?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/jayanthkumar597)
+[![Hackerrank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jayanthkumar597)
+[![Leetcode Badge](https://img.shields.io/badge/Leetcode-3B4654?style=flat&logo=Leetcode&logoColor=white)](https://www.leetcode.com/jayanthkumar597/)
+  
+  ### GitHub Contributions
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sj-Kumar&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideNums=C1D72E&sideLabels=FFFFFF&currStreakNum=5D9732&ring=C1D72E&fire=C7DD81&currStreakLabel=5D9732)](https://SJ-Kumar.github.io)
+<br>
+
+![Jayanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJ-Kumar&show_icons=true&theme=radical) ![Jayanth's GitHub lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SJ-Kumar&show_icons=true&theme=radical)
+
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/iUAZ-tkRQeyftdtK2_vRag?identity__email=jayanthkumar.s2021%40vitstudent.ac.in"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/iUAZ-tkRQeyftdtK2_vRag/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman Student Expert</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Oct 8, 2022</p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FiUAZ-tkRQeyftdtK2_vRag%3Fidentity__email%3Djayanthkumar.s2021%2540vitstudent.ac.in&amp;identity__email=jayanthkumar.s2021%40vitstudent.ac.in" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></p></blockquote>
+
+
+  ## 📚 My Latest Medium Articles
+
+<h3 dir="auto"><a id="user-content-check-out-my-latest-articles" class="anchor" aria-hidden="true" href="#check-out-my-latest-articles"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Check out my latest articles.</h3>
+<p dir="auto"><a href="https://github-readme-medium-recent-article.vercel.app/medium/@jayanthkumar597/0" rel="nofollow"><img src="https://github.com/SJ-Kumar/Jayanth-s-Profile-Site/blob/d6b117cd873a3a55c0c9e49e07b5eeb0335a2edf/article0.jpg" alt="Recent Article 0" data-canonical-src="https://github-readme-medium-recent-article.vercel.app/medium/@jayanthkumar597/0" style="max-width: 100%;">
+</a>
+<p dir="auto"><a href="https://github-readme-medium-recent-article.vercel.app/medium/@jayanthkumar597/1" rel="nofollow"><img src="https://github.com/SJ-Kumar/Jayanth-s-Profile-Site/blob/d6b117cd873a3a55c0c9e49e07b5eeb0335a2edf/article1.jpg" alt="Recent Article 1" data-canonical-src="https://github-readme-medium-recent-article.vercel.app/medium/@jayanthkumar597/1" style="max-width: 100%;">
+</a><a href="https://github-readme-medium-recent-article.vercel.app/medium/@jayanthkumar597/2" rel="nofollow"><img src="https://github.com/SJ-Kumar/Jayanth-s-Profile-Site/blob/d6b117cd873a3a55c0c9e49e07b5eeb0335a2edf/article2.jpg" alt="Recent Article 2" data-canonical-src="https://github-readme-medium-recent-article.vercel.app/medium/@jayanthkumar597/2" style="max-width: 100%;">
+</a><a href="https://github-readme-medium-recent-article.vercel.app/medium/@jayanthkumar597/3" rel="nofollow"><img src="https://github.com/SJ-Kumar/Jayanth-s-Profile-Site/blob/d6b117cd873a3a55c0c9e49e07b5eeb0335a2edf/article3.jpg" alt="Recent Article 3" data-canonical-src="https://github-readme-medium-recent-article.vercel.app/medium/@jayanthkumar597/2" style="max-width: 100%;">
+</a>
+<a href="https://github-readme-medium-recent-article.vercel.app/medium/@jayanthkumar597/4" rel="nofollow"><img src="https://github.com/SJ-Kumar/Jayanth-s-Profile-Site/blob/d6b117cd873a3a55c0c9e49e07b5eeb0335a2edf/article4.jpg" alt="Recent Article 4" data-canonical-src="https://github-readme-medium-recent-article.vercel.app/medium/@jayanthkumar597/4" style="max-width: 100%;"></a></p><a href="https://github-readme-medium-recent-article.vercel.app/medium/@jayanthkumar597/4" rel="nofollow">
+</a><h3 dir="auto"><a href="https://github-readme-medium-recent-article.vercel.app/medium/@jayanthkumar597/4" rel="nofollow"></a>
+
+
+  
+  <!---
+SJ-Kumar/SJ-Kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
 Profile Page
 https://profile-git-main-sj-kumar.vercel.app/
 
@@ -19,12 +117,6 @@ https://sj-kumar.github.io/Spark_Task_3/index.html
 
 ChatProfile
 https://sj-kumar.github.io/Chat%20profile%20portfolio/index.html
-
-
-![Metrics](https://metrics.lecoq.io/SJ-Kumar?template=classic&repositories.forks=true&leetcode=1&habits=1&introduction=1&achievements=1&isocalendar=1&languages=1&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&introduction=false&introduction.title=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&leetcode=false&leetcode.user=vaibhavchopra&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FCalcutta)
-
-
-
 
 ## License
 MIT
