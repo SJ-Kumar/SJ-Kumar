@@ -1373,7 +1373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>relferreira/awesome-k8s-resources</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of awesome Kubernetes tools and resources.</div>
@@ -1420,7 +1420,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arpitbbhayani/knowledge-base</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1462,7 +1462,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>arpitbbhayani/system-design-questions</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Problem statements on System Design and Software Architecture as part of Arpit's System Design Masterclass</div>
@@ -1697,7 +1697,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.13 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.543333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1719,7 +1719,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1069 times</div>
+                                <div class="text">Repositories have been deployed 1073 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2119,7 +2119,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Mar 2023, 19:50:23 (timezone Asia/Calcutta) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 8 Mar 2023, 20:52:51 (timezone Asia/Calcutta) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
