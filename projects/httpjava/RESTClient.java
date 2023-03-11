@@ -4,14 +4,11 @@ import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
 public class RESTClient {
-
   private final HttpClient client;
-
   public RESTClient() {
     client = HttpClient.newBuilder()
       .build();
   }
-
   public void sendGetRequest() {
     try {
       HttpRequest request = HttpRequest.newBuilder()
@@ -28,7 +25,6 @@ public class RESTClient {
            + e.getMessage());
     }
   }
-
   public static void main(String[] args) {
     RESTClient restClient = new RESTClient();
     restClient.sendGetRequest();
