@@ -52,20 +52,7 @@ const {
 } = require('./helpers/hbs')
 
 // Handlebars
-app.engine(
-  '.hbs',
-  exphbs({
-    helpers: {
-      formatDate,
-      stripTags,
-      truncate,
-      editIcon,
-      select,
-    },
-    defaultLayout: 'main',
-    extname: '.hbs',
-  })
-)
+app.engine('.hbs', exphbs({ defaultLayout: 'main', extname: '.hbs'}))
 app.set('view engine', '.hbs')
 
 // Sessions
