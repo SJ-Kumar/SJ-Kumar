@@ -51,9 +51,14 @@ const {
   select,
 } = require('./helpers/hbs')
 
-// Handlebars
+/* Handlebars
 app.engine('.hbs', exphbs({ defaultLayout: 'main', extname: '.hbs'}))
-app.set('view engine', '.hbs')
+app.set('view engine', '.hbs')  */
+
+app.engine('.hbs', exphbs({ 
+  defaultLayout: 'main', 
+  extname: '.hbs'
+}));
 
 // Sessions
 app.use(
