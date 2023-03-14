@@ -106,6 +106,9 @@ https://registry.jsonresume.org/SJ-Kumar
 AI Chat
 https://sj-kumar.github.io/AIchat/client/
 
+QR Code Generator
+https://sj-kumar-ewqurtm16-sj-kumar.vercel.app/
+
 FrontEnd:-Bakery
 https://sj-kumar.github.io/Frontend/Bakery/index.html
 
