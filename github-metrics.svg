@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 63 repositories
+                            Contributed to 62 repositories
                         </div>
                     </section>
                 </div>
@@ -158,7 +158,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            52 Repositories (including 24 forks)
+                            51 Repositories (including 23 forks)
                         </h2>
                         <div class="row">
                             <section>
@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="188.67896286065002" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="188.67896286065002" y="0" width="108.05713351764551" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="296.7360963782955" y="0" width="71.8757169453309" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="368.6118133236264" y="0" width="43.35943042252598" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="411.97124374615237" y="0" width="25.97073467309526" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="437.9419784192476" y="0" width="13.354027046099631" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="451.29600546534726" y="0" width="7.7710560469802505" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.06706151232754" y="0" width="0.9329384876724484" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="188.1585802675428" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="188.1585802675428" y="0" width="108.17254139750395" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="296.33112166504674" y="0" width="71.67748142718743" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="368.0086030922342" y="0" width="43.575441160989214" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="411.58404425322334" y="0" width="26.41877089257279" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="438.00281514579615" y="0" width="13.317196213889652" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="451.3200113596858" y="0" width="7.74962322672516" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.069634586411" y="0" width="0.9303654135890218" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1373,7 +1373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>souvik150/whatsapp_bot</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Whatsapp bot to greet Happy New Year 2023.</div>
@@ -1663,7 +1663,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="68.82000000000001 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="69.33666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1685,7 +1685,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1666 times</div>
+                                <div class="text">Repositories have been deployed 1671 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1698,7 +1698,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.5 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.333333333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1724,7 +1724,7 @@
                                     <span class="prefix">Master</span>
                                     forker
                                 </div>
-                                <div class="text">Forked 23 public repositories</div>
+                                <div class="text">Forked 22 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1737,7 +1737,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="98.16666666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1762,9 +1762,9 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 853k out of 110m users</span>
+                                    <span class="gh">ranked 890k out of 110m users</span>
                                 </div>
-                                <div class="text">Published 39 public repositories</div>
+                                <div class="text">Published 38 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1912,7 +1912,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.47m out of 385m repositories</span>
+                                    <span class="gh">ranked 1.43m out of 385m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 6 times</div>
                             </div>
@@ -2124,7 +2124,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Mar 2023, 18:56:51 (timezone Asia/Calcutta) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 15 Mar 2023, 19:42:31 (timezone Asia/Calcutta) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
