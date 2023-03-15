@@ -106,6 +106,9 @@ https://registry.jsonresume.org/SJ-Kumar
 AI Chat
 https://sj-kumar.github.io/AIchat/client/
 
+QR Code Generator
+https://sj-kumar-ewqurtm16-sj-kumar.vercel.app/
+
 FrontEnd:-Bakery
 https://sj-kumar.github.io/Frontend/Bakery/index.html
 
@@ -117,6 +120,9 @@ https://sj-kumar.github.io/Spark_Task_3/index.html
 
 ChatProfile
 https://sj-kumar.github.io/Chat%20profile%20portfolio/index.html
+
+RepoFinder
+https://py-projects-8nts682b9-sj-kumar.vercel.app/
 
 ## License
 MIT
