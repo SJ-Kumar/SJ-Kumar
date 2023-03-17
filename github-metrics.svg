@@ -232,14 +232,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="188.1380120717111" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="188.1380120717111" y="0" width="108.14742556370727" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="296.28543763541836" y="0" width="71.66083912880714" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="367.9462767642255" y="0" width="43.58331108564387" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="411.52958784986936" y="0" width="26.478334670050124" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="438.0079225199195" y="0" width="13.31410418626023" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="451.3220267061797" y="0" width="7.747823895338149" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.0698506015178" y="0" width="0.9301493984820826" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="188.15546385455062" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="188.15546385455062" y="0" width="108.14048319784006" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="296.2959470523907" y="0" width="71.65623896601093" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="367.9521860184016" y="0" width="43.58051331870966" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="411.5326993371113" y="0" width="26.476634932068603" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="438.0093342691799" y="0" width="13.313249506807866" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="451.32258377598777" y="0" width="7.747326535110885" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.0699103110987" y="0" width="0.930089688901371" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1340,7 +1340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sinclam2/intro-to-probability-solutions</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Solutions to the exercises in Grinstead and Snell's Introduction to Probability</div>
@@ -1630,7 +1630,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="87.93666666666667 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="88.55666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1652,7 +1652,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1851 times</div>
+                                <div class="text">Repositories have been deployed 1857 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2091,7 +2091,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Mar 2023, 22:48:16 (timezone Asia/Calcutta) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 17 Mar 2023, 22:55:10 (timezone Asia/Calcutta) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
