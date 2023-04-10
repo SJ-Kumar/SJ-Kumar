@@ -126,6 +126,15 @@ In a group project during my academic studies, we faced challenges with team dyn
 - Implemented improved coordination: I implemented improved coordination mechanisms within the team, including regular progress meetings, task assignments, and documentation of decisions and action items. I also ensured that communication channels were open and that everyone had a clear understanding of their roles and responsibilities.
 - Supported team members: I provided support and guidance to team members who were facing challenges, offered help where needed, and encouraged a collaborative and positive team environment.
 
+## Tell us about a time when you went out of your comfort zone to do a task
+
+Taking on a leadership role in a group project: I was initially assigned as a team member, but due to unforeseen circumstances, our team lead had to step down. Despite feeling uncomfortable with the added responsibility, I volunteered to step up and lead the team. I had to quickly learn how to delegate tasks, manage team dynamics, and ensure project progress. It was challenging, but I learned valuable leadership skills and successfully completed the project on time.
+Learning a new programming language or technology: In one of my previous internships, I was required to work on a project that involved a programming language I was not familiar with. Despite feeling out of my comfort zone, I took the initiative to learn the language on my own, utilizing online resources, tutorials, and seeking help from senior team members. It required extra effort and time, but I was able to deliver the project successfully and gained proficiency in the new technology.
+Presenting in front of a large audience: As part of a school event, I was asked to deliver a presentation to a large audience. Public speaking was not my strong suit, and I initially felt anxious and uncomfortable. However, I prepared thoroughly, practiced my presentation, and sought feedback from mentors. Despite my initial discomfort, I successfully delivered the presentation and received positive feedback from the audience.
+Taking on a client-facing role: In a previous job, I was asked to take on a client-facing role, which required me to interact with clients directly, handle their inquiries, and provide support. As an introverted person, this was initially outside my comfort zone, but I proactively sought guidance from senior colleagues, learned effective communication techniques, and gradually built a rapport with clients. It helped me develop strong client relationship skills and contributed to the success of the team.
+
+## Tell us about a time when you worked in a team and what challenges you faced and your learnings.
+
 # What are your short-term and long-term career goals?
 
 ## Short-term career goals:
