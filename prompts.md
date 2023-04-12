@@ -1,4 +1,4 @@
-
+ChatGPT is a new model trained by OpenAI that can interact conversationally. This model is trained to follow instructions in a prompt to provide appropriate responses in the context of a dialogue. ChatGPT can help with answering questions, suggesting recipes, writing lyrics in a certain style, generating code, and much more.
 
 # Coding
 1.
@@ -65,3 +65,7 @@ Prompt:
 Prompt:
 
 "What will the following code snippet do {enter code}"
+
+
+
+# General Prompts
