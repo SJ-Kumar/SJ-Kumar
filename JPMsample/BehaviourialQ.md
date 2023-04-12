@@ -3,6 +3,7 @@
 I am an energetic person, an effective communicator, and a quick learner. I was also one of the top students in my batch while I was pursuing a B.E degree in the Computer Science domain. I worked on various projects related to the software domain which provided me a great deal of technical exposure along with the importance of working in a team and the value of client satisfaction. I have worked on developing various enterprise-level web applications ........ So, I believe I am a good fit for technology-centric roles in your company.
 
 
+
 # Why do you want to work for our company?
 I feel that with my current skill sets and my experience in the XYZ domain, the job requirements this role presented are a perfect match for me. I could visualize myself in that role as it aligned with my career aspirations, skills, and expertise. Besides, I have researched your company and found that it has impressive and promising projections which made me excited to be a part of the amazing future. I would take pride in working under the great leadership of this company and I found this place to be a perfect fit for utilizing my expertise along with the promising aspect of personal growth.
 
