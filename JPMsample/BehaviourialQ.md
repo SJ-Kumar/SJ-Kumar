@@ -1,6 +1,6 @@
 # Tell me about yourself
 
-I am an energetic person, an effective communicator, and a quick learner. I was also one of the top students in my batch while I was pursuing a B.E degree in the Computer Science domain. I worked on various projects related to the software domain which provided me a great deal of technical exposure along with the importance of working in a team and the value of client satisfaction. I have worked on developing various enterprise-level web applications for helping companies solve problems like ensuring business continuity, market research analysis, etc. So, I believe I am a good fit for technology-centric roles in your company.
+I am an energetic person, an effective communicator, and a quick learner. I was also one of the top students in my batch while I was pursuing a B.E degree in the Computer Science domain. I worked on various projects related to the software domain which provided me a great deal of technical exposure along with the importance of working in a team and the value of client satisfaction. I have worked on developing various enterprise-level web applications ........ So, I believe I am a good fit for technology-centric roles in your company.
 
 
 # Why do you want to work for our company?
