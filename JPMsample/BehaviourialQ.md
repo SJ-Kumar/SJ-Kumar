@@ -18,7 +18,7 @@ I think one of my greatest strengths is that I am a great team player. I am also
 
 - Problem-solving skills: I am skilled in identifying and resolving technical issues efficiently, leveraging my analytical and logical thinking skills to troubleshoot and debug code effectively.
 
-- Collaboration and teamwork: I am a team player and enjoy collaborating with my peers to achieve common goals. I actively contribute to team discussions, listen to others' ideas, and provide constructive feedback to ensure the team's success.
+- Collaboration and teamwork: I am a team player and enjoy collaborating with my peers to achieve common goals. I actively contribute to team discussions, listen to others' ideas, and provide constructive feedback to ensure the team's success...
 
 - Attention to detail: I have a keen eye for detail and strive to write clean and maintainable code. I am meticulous in conducting thorough testing to identify and fix any potential issues before they become problems.
 
@@ -31,7 +31,7 @@ I think one of my greatest strengths is that I am a great team player. I am also
 
 - Time management: I sometimes find it challenging to manage my time effectively when working on multiple projects simultaneously. However, I am using time management techniques such as prioritizing tasks, setting deadlines, and using project management tools to improve my time management skills.
 
-- Overly self-critical:I tend to be overly self-critical at times and have high expectations of myself. However, I am learning to strike a balance between striving for excellence and understanding that perfection is not always achievable in the fast-paced software development industry
+- Overly self-critical:I tend to be overly self-critical at times and have high expectations of myself. However, I am learning to strike a balance between striving for excellence and understanding that perfection is not always achievable in the fast-paced software development industry.
 
 - Difficulty saying "no": I sometimes find it challenging to say 'no' when I am overwhelmed with tasks or requests. However, I am improving my time management and prioritization skills to ensure that I can manage my workload effectively and avoid taking on too much.
 
