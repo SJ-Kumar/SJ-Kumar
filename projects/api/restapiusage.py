@@ -8,7 +8,7 @@ app = Flask(__name__)
 def hello():
     return jsonify({'message': 'Hello World!'})
 
-    # Define an endpoint that accepts POST requests
+# Define an endpoint that accepts POST requests
 
 @app.route('/greet', methods = ['POST'])
 def greet():
