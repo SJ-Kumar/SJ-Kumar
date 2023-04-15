@@ -61,7 +61,7 @@ During a group project in my sophomore year, I had a disagreement with a team me
 During a hackathon event, I was part of a team developing a web application. I identified that the user interface (UI) of the application was not intuitive and could impact the user experience. To address this, I conducted user feedback sessions, collected feedback on the UI, and identified key areas of improvement. I then worked closely with the UI/UX team and incorporated the feedback to redesign the UI, making it more user-friendly and visually appealing.
 
 
- Tell me about a scenario when a project didn't go according to your plan, and what you did to get it back on track?
+ # Tell me about a scenario when a project didn't go according to your plan, and what you did to get it back on track?
 ## Example Answer 1:
 During my internship, I was leading a team in developing a mobile app for a client. We encountered unexpected technical issues during the development phase, which caused delays in the project timeline. To get the project back on track, I took the following steps:
 
@@ -76,31 +76,12 @@ As a result of these actions, we were able to overcome the technical challenges,
 
 
 
-# Tell me about yourself
-
-I am an energetic person, an effective communicator, and a quick learner. I was also one of the top students in my batch while I was pursuing a B.E degree in the Computer Science domain. I worked on various projects related to the software domain which provided me a great deal of technical exposure along with the importance of working in a team and the value of client satisfaction. I have hands-on experience in developing diverse web applications and projects using various technologies. So, I believe I am a good fit for technology-centric roles in your company.
 
 
 
-# Why do you want to work for our company?
-I feel that with my current skill sets and my experience in the XYZ domain, the job requirements this role presented are a perfect match for me. I could visualize myself in that role as it aligned with my career aspirations, skills, and expertise. Besides, I have researched your company and found that it has impressive and promising projections which made me excited to be a part of the amazing future. I would take pride in working under the great leadership of this company and I found this place to be a perfect fit for utilizing my expertise along with the promising aspect of personal growth.
 
-# What are your greatest strengths and weaknesses?
-I think one of my greatest strengths is that I am a great team player. I am also a self-motivated and quick learning individual. Whatever task that I set to do, I always give my best and complete it diligently well in advance. My weakness would be that I am learning to master people skills while meeting new individuals. I get nervous while talking to new people. I have been working on this for quite a long time and I can say with utmost confidence that I have come a long way.
 
-# What are your greatest strengths?
 
-- Technical expertise: I have a strong command of Java and Python basics, and I'm well-versed in web development frameworks like React.
-
-- Fast Learner: I am a fast learner and have a proven track record of quickly picking up new programming languages and frameworks, allowing me to quickly contribute to new projects.
-
-- Problem-solving skills: I am skilled in identifying and resolving technical issues efficiently, leveraging my analytical and logical thinking skills to troubleshoot and debug code effectively.
-
-- Collaboration and teamwork: I am a team player and enjoy collaborating with my peers to achieve common goals. I actively contribute to team discussions, listen to others' ideas, and provide constructive feedback to ensure the team's success...
-
-- Attention to detail: I have a keen eye for detail and strive to write clean and maintainable code. I am meticulous in conducting thorough testing to identify and fix any potential issues before they become problems.
-
-- Communication skills: I possess strong communication skills, both verbal and written, which allow me to effectively convey complex technical concepts to both technical and non-technical stakeholders, ensuring clear communication and understanding.
 
 
 # What are your greatest weakness?
