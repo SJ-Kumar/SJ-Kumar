@@ -1,14 +1,28 @@
-# Tell me about yourself
+# Why do you want to work for JPMorgan?
 
-I am an energetic person, an effective communicator, and a quick learner. I was also one of the top students in my batch while I was pursuing a B.E degree in the Computer Science domain. I worked on various projects related to the software domain which provided me a great deal of technical exposure along with the importance of working in a team and the value of client satisfaction. I have worked on developing various enterprise-level web applications ........ So, I believe I am a good fit for technology-centric roles in your company.
+JP Morgan is the most respected financial services firm in the world, serving corporations and individuals. JP Morgan is making dreams possible for everyone, everywhere, every day.
+
+I am interested in pursuing a career at JP Morgan, as it aligns perfectly with my passion for developing and maintaining robust software applications that cater to the unique requirements of financial operations. 
+With a strong emphasis on ensuring security and compliance, and effective collaboration with cross-functional teams, JP Morgan presents an ideal platform for me to contribute my skills and expertise.
+
+  # About my experience ?
+I have hands-on experience in developing web applications using JavaScript, Express, and OpenAI API for an AI Chat application that was deployed on Vercel. I also developed a dynamic GitHub Repo Finder application in Python that allows querying and retrieval of repositories based on various criteria. Additionally, I built a chat-based portfolio page using HTML, JavaScript, and CSS that displays education, skills, projects, and resume based on user input.
+
+I have completed courses and quests in the Google Cloud Engineer Learning Path, including Google Cloud Fundamentals and Setup and Configure Cloud environment. I am actively involved as an Open Source Developer at Google Developer Student Club, a Web Developer in IoTHINC at VIT, and a Postman Student Expert.
+
+These experiences have equipped me with strong web development skills, cloud computing expertise, and a passion for open-source contributions. I am excited to leverage my skills in a software engineering role within the banking domain.
+
+# About future goals?
+
+my future goal is to become a senior software engineer or a team lead, contributing to the organization's projects and leading a team of skilled engineers. I am committed to continuous learning and professional growth, and I believe this organization provides ample opportunities for career advancement.
+
+I am extremely interested in full stack web development, and I see myself becoming an expert in this field. I aim to be leading the development of cutting-edge web applications and making a significant impact in this domain.
+
+-- In the long term, I am passionate about leveraging my skills and knowledge to make a meaningful impact in the industry.
+-- I am also committed to staying up-to-date with emerging technologies and industry trends to enhance operational efficiency and deliver value to clients.
 
 
 
-# Why do you want to work for our company?
-I feel that with my current skill sets and my experience in the XYZ domain, the job requirements this role presented are a perfect match for me. I could visualize myself in that role as it aligned with my career aspirations, skills, and expertise. Besides, I have researched your company and found that it has impressive and promising projections which made me excited to be a part of the amazing future. I would take pride in working under the great leadership of this company and I found this place to be a perfect fit for utilizing my expertise along with the promising aspect of personal growth.
-
-# What are your greatest strengths and weaknesses?
-I think one of my greatest strengths is that I am a great team player. I am also a self-motivated and quick learning individual. Whatever task that I set to do, I always give my best and complete it diligently well in advance. My weakness would be that I am learning to master people skills while meeting new individuals. I get nervous while talking to new people. I have been working on this for quite a long time and I can say with utmost confidence that I have come a long way.
 
 # What are your greatest strengths?
 
@@ -18,11 +32,60 @@ I think one of my greatest strengths is that I am a great team player. I am also
 
 - Problem-solving skills: I am skilled in identifying and resolving technical issues efficiently, leveraging my analytical and logical thinking skills to troubleshoot and debug code effectively.
 
-- Collaboration and teamwork: I am a team player and enjoy collaborating with my peers to achieve common goals. I actively contribute to team discussions, listen to others' ideas, and provide constructive feedback to ensure the team's success.
+- Collaboration and teamwork: I am a team player and enjoy collaborating with my peers to achieve common goals. I actively contribute to team discussions, listen to others' ideas, and provide constructive feedback to ensure the team's success...
 
-- Attention to detail: I have a keen eye for detail and strive to write clean and maintainable code. I am meticulous in conducting thorough testing to identify and fix any potential issues before they become problems.
 
-- Communication skills: I possess strong communication skills, both verbal and written, which allow me to effectively convey complex technical concepts to both technical and non-technical stakeholders, ensuring clear communication and understanding.
+# What are your greatest weakness?
+
+- Lack of experience in a specific technology or domain: One of my weaknesses is that I have limited experience in working with cloud technologies, but I am actively taking online courses and seeking opportunities to gain hands-on experience to overcome this weakness.
+- Time management: I sometimes find it challenging to manage my time effectively when working on multiple projects simultaneously. However, I am using time management techniques such as prioritizing tasks, setting deadlines, and using project management tools to improve my time management skills.
+
+
+# Why I should hire you?
+- Relevant skills: I have hands-on experience in Java, Python, and web development frameworks like React, which I believe would make me a strong fit for this role. I have successfully completed internships and projects where I have developed software applications and gained practical experience in working with real-world projects.
+- Problem-solving skills: I possess strong problem-solving skills and enjoy tackling complex technical challenges. I have a systematic approach to problem-solving, which involves thoroughly analyzing the issue, researching potential solutions, and implementing the most effective one.
+
+
+# How do you handle working on a team with diverse skill sets and perspectives?
+I believe that diversity in a team can lead to innovative solutions. To handle diverse skill sets and perspectives, I actively listen to team members' ideas and opinions, and respect their input. I try to understand their strengths and weaknesses, and assign tasks accordingly to leverage their expertise. I also promote open communication and collaboration, and encourage team members to share their thoughts and feedback. By fostering a positive team environment, I believe we can achieve greater outcomes.
+
+# Tell me about a time when you faced a conflict with a team member and how you resolved it ?
+During a group project in my sophomore year, I had a disagreement with a team member over the design approach for our application. We had differing opinions on the best approach to take. To resolve the conflict, I initiated a one-on-one conversation with the team member to understand their perspective and shared my own views. We actively listened to each other, respected each other's opinions, and found a middle ground that combined our ideas. We then communicated our agreed-upon approach to the rest of the team, and the project proceeded smoothly with a successful outcome.
+
+
+# Tell me about a time when you positively impacted a project.
+
+During a hackathon event, I was part of a team developing a web application. I identified that the user interface (UI) of the application was not intuitive and could impact the user experience. To address this, I conducted user feedback sessions, collected feedback on the UI, and identified key areas of improvement. I then worked closely with the UI/UX team and incorporated the feedback to redesign the UI, making it more user-friendly and visually appealing.
+
+
+ # Tell me about a scenario when a project didn't go according to your plan, and what you did to get it back on track?
+## Example Answer 1:
+During my internship, I was leading a team in developing a mobile app for a client. We encountered unexpected technical issues during the development phase, which caused delays in the project timeline. To get the project back on track, I took the following steps:
+
+- Conducted a root cause analysis: I worked closely with the team to identify the root causes of the technical issues, conducted thorough debugging and testing, and consulted with senior developers and experts to gain insights.
+- Developed a mitigation plan: Based on the root cause analysis, I developed a mitigation plan that included specific steps to address the technical issues, reallocated resources, and revised the project timeline accordingly.
+- Communicated proactively: I communicated the issues, the mitigation plan, and the revised timeline to the team, the client, and other stakeholders in a transparent and proactive manner. I ensured everyone was aware of the changes and their roles in the revised plan.
+- Monitored progress and made adjustments: I closely monitored the progress of the mitigation plan, tracked key milestones, and made adjustments as needed to ensure the project was on track. I also maintained open communication channels with the team, encouraged collaboration, and provided support and guidance as required.
+As a result of these actions, we were able to overcome the technical challenges, get the project back on track, and deliver it successfully to the client within the revised timeline
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # What are your greatest weakness?
@@ -31,7 +94,7 @@ I think one of my greatest strengths is that I am a great team player. I am also
 
 - Time management: I sometimes find it challenging to manage my time effectively when working on multiple projects simultaneously. However, I am using time management techniques such as prioritizing tasks, setting deadlines, and using project management tools to improve my time management skills.
 
-- Overly self-critical:I tend to be overly self-critical at times and have high expectations of myself. However, I am learning to strike a balance between striving for excellence and understanding that perfection is not always achievable in the fast-paced software development industry
+- Overly self-critical:I tend to be overly self-critical at times and have high expectations of myself. However, I am learning to strike a balance between striving for excellence and understanding that perfection is not always achievable in the fast-paced software development industry.
 
 - Difficulty saying "no": I sometimes find it challenging to say 'no' when I am overwhelmed with tasks or requests. However, I am improving my time management and prioritization skills to ensure that I can manage my workload effectively and avoid taking on too much.
 
@@ -77,7 +140,7 @@ Example answer: As a software engineering student, I believe in the importance o
 Example answer: During my senior year project, I encountered a complex technical challenge while implementing a feature that required integrating multiple external APIs. The APIs had different data formats and authentication methods, and there were limited documentation available. To approach the challenge, I first conducted thorough research to understand the APIs and their requirements. I then experimented with different approaches, conducted extensive testing, and iteratively refined the solution. I sought help from mentors and peers, and collaborated with other team members to brainstorm ideas. Through persistent effort and problem-solving skills, I successfully implemented the feature and delivered it on time.
 
 # Tell me about a challenging situation you faced during a team project and how you handled it.
-Example Answer: During a team project in my previous internship, we faced a tight deadline and unexpected technical issues. To handle the situation, I quickly gathered the team to assess the challenges, identified the root cause, and proposed a solution. I coordinated with team members to reallocate resources, set up additional testing, and worked closely with the technical team to resolve the issues. Through effective communication and collaboration, we were able to meet the deadline and deliver a successful project.
+Example Answer: During a team project in my previous internship, we faced a tight deadline and unexpected technical issues. To handle the situation, I quickly gathered the team to assess the challenges, identified the root cause, and proposed a solution. I coordinated with team members to move resources, set up additional testing, and worked closely with the technical team to resolve the issues. Through effective communication and collaboration, we were able to meet the deadline and deliver a successful project.
 
 # Describe a situation where you had to work under pressure and how you managed to deliver results.
 Example Answer: In my previous academic project, we had a challenging deadline due to unforeseen delays in the project timeline. I remained calm under pressure and prioritized tasks based on their urgency and impact. I communicated with team members to ensure everyone was aligned and motivated. I put in extra effort, including working overtime and seeking help when needed, to meet the deadline. My ability to stay focused, manage my time effectively, and collaborate with the team resulted in successfully delivering the project on time.
@@ -158,5 +221,43 @@ Taking on a client-facing role: In a previous job, I was asked to take on a clie
 - Continual learning and professional development: Highlight your commitment to continuous learning and professional development. For example, "I see myself continuously expanding my skillset, staying updated with the latest technologies, and taking on challenging projects that push me to grow as a software engineer. I am committed to lifelong learning and improving my abilities to deliver value to any organization I work with."
 
 - Making a positive impact: Express your desire to make a meaningful contribution to the organization and the wider community. For example, "In five years, I see myself using my skills and experience to make a positive impact on the organization's projects and contributing to the development of innovative solutions that benefit society. I am passionate about leveraging technology for social good and driving positive change.
+
+# Walk us through a DCF.
+
+A discounted cash flow (DCF) is a way to figure out how much something is worth in the future. Imagine you have a toy that you want to sell, and you want to know how much it might be worth in a few years. A DCF can help you estimate that!
+
+1. Think about the Future: The first step is to imagine how much money you might get from selling the toy in the future. 
+
+2. Time Value of Money: Money in the future is worth less than money today, because you could use money today to buy something right away. We do this by using something called a discount rate, which is like a special number that helps us figure out how much less the money in the future is worth today.
+
+3. Discounting the Future Money: Using the discount rate, we can "discount" the money we might get in the future back to the present.
+
+4. Adding It Up: This total value is what we think the toy might be worth right now!
+
+5. Comparing to the Current Price: Finally, we can compare the total value we calculated with the price that the toy is currently being sold for. If the total value is higher than the price, it might mean that the toy is a good deal and worth buying. If the total value is lower than the price, it might mean that the toy is not worth as much as it's being sold for
+
+# How many golf balls can fit in a Boeing 747?
+The number of golf balls that can fit in a Boeing 747 depends on several factors, including the size of the golf balls, the configuration of the Boeing 747.
+Assuming the diameter of a standard golf ball is approximately 43 millimeters (1.68 inches)
+we can calculate the number of golf balls that can fit in the Boeing 747-8 Freighter using the formula for the volume of a sphere, which is (4/3) * π * r^3, where r is the radius of the sphere.
+Calculate the volume of the Boeing 747-8 Freighter:
+Volume = 854 cubic meters
+
+Calculate the volume of a single golf ball:
+Volume of a golf ball = (4/3) * π * (r^3)
+Assuming the radius (r) of a golf ball is 21.5 millimeters (0.0215 meters):
+Volume of a golf ball = (4/3) * π * (0.0215^3) = 0.0000111 cubic meters
+Calculate the number of golf balls that can fit in the Boeing 747-8 Freighter:
+Number of golf balls = Volume of Boeing 747-8 Freighter / Volume of a golf ball
+Number of golf balls = 854 / 0.0000111 = 76,757,657 golf balls (rounded to the nearest whole number)
+
+# How does a bank make money?
+Interest on Loans - Banks provide loans to individuals, businesses, and other entities, and charge interest on these loans. 
+Fees and Charges: Banks charge various fees and charges for services such as account maintenance fees, transaction fees, overdraft fees, and other banking services.
+Investments: Banks invest in various financial instruments such as stocks, bonds, and other securities, and earn income from the dividends, interest, and capital gains generated by these investments.
+Foreign Exchange: Banks facilitate foreign exchange transactions for their customers, buying and selling different currencies and earning a profit on the spread between the buying and selling prices.
+Credit Card Operations: Banks issue credit cards and charge fees and interest on credit card balances, as well as earn interchange fees from merchants when customers make purchases using their credit cards.
+Deposit Services: Banks earn income from managing and investing the deposits made by customers, including checking accounts, savings accounts, and certificates of deposit (CDs).
+Other Services: Banks offer a wide range of financial services, such as wealth management, insurance, investment banking, and advisory services, which generate fees and commissions.
 
 ## Additional Reference: https://www.wikijob.co.uk/interview-advice/interview-questions/competency-based-questions
