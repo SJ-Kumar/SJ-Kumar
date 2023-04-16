@@ -8,23 +8,24 @@ With a strong emphasis on ensuring security and compliance, and effective collab
   # About my experience ?
 I have hands-on experience in developing web applications using JavaScript, Express, and OpenAI API for an AI Chat application that was deployed on Vercel. I also developed a dynamic GitHub Repo Finder application in Python that allows querying and retrieval of repositories based on various criteria. Additionally, I built a chat-based portfolio page using HTML, JavaScript, and CSS that displays education, skills, projects, and resume based on user input.
 
+I have worked as a web developer intern for the sparks foundation where i got a chance to work on real-world projects. i was able to improve my command over HTML,CSS,JAVASCRIPT and React I also gained experience in database management and version control systems like Git.
+
+I have also worked as a java developer intern for LETSGROWMORE where i got a chance to improve my command over Java programming and gained expereince in Java frameworks
+
 I have completed courses and quests in the Google Cloud Engineer Learning Path, including Google Cloud Fundamentals and Setup and Configure Cloud environment. I am actively involved as an Open Source Developer at Google Developer Student Club, a Web Developer in IoTHINC at VIT, and a Postman Student Expert.
 
 These experiences have equipped me with strong web development skills, cloud computing expertise, and a passion for open-source contributions. I am excited to leverage my skills in a software engineering role within the banking domain.
 
 # About future goals?
 
-- As an aspiring finance professional, my future goal is to develop a comprehensive understanding of investment banking operations and build a strong foundation in financial analysis, and risk management.
-- During my internship in the banking domain, I aim to gain practical experience and develop my technical skills further by working on challenging projects and learning from experienced professionals in the field.
-- Build a strong professional network within the company and industry, and establish relationships with mentors who can guide me in my career growth.
+my future goal is to become a senior software engineer or a team lead, contributing to the organization's projects and leading a team of skilled engineers. I am committed to continuous learning and professional growth, and I believe this organization provides ample opportunities for career advancement.
 
--- In the long term, I am passionate about leveraging my skills and knowledge to make a meaningful impact in the financial industry.
+I am extremely interested in full stack web development, and I see myself becoming an expert in this field. I aim to be leading the development of cutting-edge web applications and making a significant impact in this domain.
+
+-- In the long term, I am passionate about leveraging my skills and knowledge to make a meaningful impact in the industry.
 -- I am also committed to staying up-to-date with emerging technologies and industry trends to enhance operational efficiency and deliver value to clients.
 
 
-# In 5 years....
-- Career growth within the organization: For example, "In five years, I see myself as a senior software engineer or a team lead, contributing to the organization's projects and leading a team of skilled engineers. I am committed to continuous learning and professional growth, and I believe this organization provides ample opportunities for career advancement.
-- Specialization in a specific area: I am extremely interested in artificial intelligence and machine learning, and I see myself becoming an expert in this field. In five years, I aim to be leading the development of cutting-edge AI solutions and making a significant impact in this domain.
 
 
 # What are your greatest strengths?
