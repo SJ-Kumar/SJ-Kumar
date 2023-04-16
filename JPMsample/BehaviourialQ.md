@@ -8,10 +8,6 @@ With a strong emphasis on ensuring security and compliance, and effective collab
   # About my experience ?
 I have hands-on experience in developing web applications using JavaScript, Express, and OpenAI API for an AI Chat application that was deployed on Vercel. I also developed a dynamic GitHub Repo Finder application in Python that allows querying and retrieval of repositories based on various criteria. Additionally, I built a chat-based portfolio page using HTML, JavaScript, and CSS that displays education, skills, projects, and resume based on user input.
 
-I have worked as a web developer intern for the sparks foundation where i got a chance to work on real-world projects. i was able to improve my command over HTML,CSS,JAVASCRIPT and React I also gained experience in database management and version control systems like Git.
-
-I have also worked as a java developer intern for LETSGROWMORE where i got a chance to improve my command over Java programming and gained expereince in Java frameworks
-
 I have completed courses and quests in the Google Cloud Engineer Learning Path, including Google Cloud Fundamentals and Setup and Configure Cloud environment. I am actively involved as an Open Source Developer at Google Developer Student Club, a Web Developer in IoTHINC at VIT, and a Postman Student Expert.
 
 These experiences have equipped me with strong web development skills, cloud computing expertise, and a passion for open-source contributions. I am excited to leverage my skills in a software engineering role within the banking domain.
