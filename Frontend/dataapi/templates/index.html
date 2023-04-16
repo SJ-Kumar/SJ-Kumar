@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Users App</title>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+
+<body>
+    <h1>Users</h1>
+    <ul id="users-list"></ul>
+    <h2>Add User</h2>
+    <form id="add-user-form">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name"><br>
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age"><br>
+        <input type="submit" value="Add User">
+    </form>
+
+    <script>
+        // Fetch users from API and populate the list
+        function fetchUsers() {
+            $.get('/api/users', function (data) {
+                $('#users-list').empty();
+                $.each(data.users, function (index, user) {
+                    $('#users-list').append('<li>' + user.name + ' (' + user.age + ' years old)</li>');
+
+                });
+            });
+        }
+
+        // Add event listener for form submission
+        $('#add-user-form').on('submit', function (event) {
+            event.preventDefault();
+            var name = $('#name').val();
+            var age = $('#age').val();
+            $.post('/api/users', { name: name, age: age }, function (data) {
+                $('#name').val('');
+                $('#age').val('');
+                fetchUsers();
+            });
+        });
+
+        // Fetch users when the page loads
+        fetchUsers();
+    </script>
+</body>
+
+</html>
