@@ -14,9 +14,9 @@ These experiences have equipped me with strong web development skills, cloud com
 
 # About future goals?
 
-my future goal is to become a senior software engineer or a team lead, contributing to the organization's projects and leading a team of skilled engineers. I am committed to continuous learning and professional growth, and I believe this organization provides ample opportunities for career advancement.
+My future goal is to become a senior software engineer or a team lead, contributing to the organization's projects and leading a team of skilled engineers. I am committed to continuous learning and professional growth, and I believe this organization provides ample opportunities for career advancement.
 
-I am extremely interested in full stack web development, and I see myself becoming an expert in this field. I aim to be leading the development of cutting-edge web applications and making a significant impact in this domain.
+I am interested in full stack web development, and I see myself becoming an expert in this field. I aim to be leading the development of cutting-edge Web applications and making a significant impact in this domain.
 
 -- In the long term, I am passionate about leveraging my skills and knowledge to make a meaningful impact in the industry.
 -- I am also committed to staying up-to-date with emerging technologies and industry trends to enhance operational efficiency and deliver value to clients.
