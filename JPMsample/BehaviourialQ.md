@@ -14,9 +14,9 @@ These experiences have equipped me with strong web development skills, cloud com
 
 # About future goals?
 
-my future goal is to become a senior software engineer or a team lead, contributing to the organization's projects and leading a team of skilled engineers. I am committed to continuous learning and professional growth, and I believe this organization provides ample opportunities for career advancement.
+My future goal is to become a senior software engineer or a team lead, contributing to the organization's projects and leading a team of skilled engineers. I am committed to continuous learning and professional growth, and I believe this organization provides ample opportunities for career advancement.
 
-I am extremely interested in full stack web development, and I see myself becoming an expert in this field. I aim to be leading the development of cutting-edge web applications and making a significant impact in this domain.
+I am interested in full stack web development, and I see myself becoming an expert in this field. I aim to be leading the development of cutting-edge Web applications and making a significant impact in this domain.
 
 -- In the long term, I am passionate about leveraging my skills and knowledge to make a meaningful impact in the industry.
 -- I am also committed to staying up-to-date with emerging technologies and industry trends to enhance operational efficiency and deliver value to clients.
@@ -98,10 +98,10 @@ As a result of these actions, we were able to overcome the technical challenges,
 
 - Difficulty saying "no": I sometimes find it challenging to say 'no' when I am overwhelmed with tasks or requests. However, I am improving my time management and prioritization skills to ensure that I can manage my workload effectively and avoid taking on too much.
 
-- Lack of experience in a specific soft skill: I acknowledge that I have limited experience in public speaking, but I am actively seeking opportunities to improve my communication and presentation skills, such as joining Toastmasters or taking public speaking workshops.
+- Lack of experience in a specific soft skill: I acknowledge that I have limited experience in public speaking, but I am actively seeking opportunities to improve my communication and presentation skills, such as joining Toastmasters or attending public speaking workshops.
 
 # Why I should hire you?
-- Relevant skills: I have hands-on experience in Java, Python, and web development frameworks like React, which I believe would make me a strong fit for this role. I have successfully completed internships and projects where I have developed software applications and gained practical experience in working with real-world projects.
+- Relevant skills: I have hands-on experience in Java, Python, and Web development frameworks like React, which I believe would make me a strong fit for this role. I have successfully completed internships and projects where I have developed software applications and gained practical experience in working with real-world projects.
 - Passion and enthusiasm: I am truly passionate about software engineering and have a deep interest in developing innovative solutions. I am excited about the opportunity to work with a reputed organization like yours and contribute my skills and knowledge to the team.
 - Quick learner and adaptability: I am a fast learner and have a proven track record of quickly picking up new programming languages, frameworks, and tools. I am confident in my ability to adapt to different projects and environments and contribute effectively to the team.
 - Problem-solving skills: I possess strong problem-solving skills and enjoy tackling complex technical challenges. I have a systematic approach to problem-solving, which involves thoroughly analyzing the issue, researching potential solutions, and implementing the most effective one.
