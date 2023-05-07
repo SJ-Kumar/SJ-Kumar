@@ -1,0 +1,14 @@
+# Chapter 1: Introduction to Git
+- What is version control?
+- Why do we need version control?
+- Git basics: initialization, commits, branches
+
+# Chapter 2: Git Workflow
+- Git branching model: feature branch, release branch, hotfix branch
+- Git commands: merge, rebase, cherry-pick
+- Resolving conflicts in Git
+
+# Chapter 3: Advanced Git Topics
+- Git remote: push, pull, fetch
+- Git hooks: pre-commit, post-commit
+- Git bisect: finding bugs with binary search
