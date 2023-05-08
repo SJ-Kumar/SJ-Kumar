@@ -90,7 +90,7 @@ Here are TOP-10 that I like most about my work. 😀
 
 <!-- BLOG-POST-LIST:START -->
     
-1. [What are Pure Functions?]([https://blog.greenroots.info/what-are-pure-functions-and-side-effects-in-javascript](https://github-readme-medium-recent-article.vercel.app/medium/@jayanthkumar597/0))
+1. [What are Pure Functions?](https://github-readme-medium-recent-article.vercel.app/medium/@jayanthkumar597/1))
 	
   <!-- BLOG-POST-LIST:END -->
   </p>
