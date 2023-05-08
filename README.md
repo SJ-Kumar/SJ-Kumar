@@ -74,17 +74,7 @@
 	[![GitHub Streak](https://streak-stats.demolab.com/?user=SJ-Kumar&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideNums=C1D72E&sideLabels=FFFFFF&currStreakNum=5D9732&ring=C1D72E&fire=C7DD81&currStreakLabel=5D9732)](https://git.io/streak-stats)
 <br>
 ![Jayanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJ-Kumar&show_icons=true&theme=radical) ![Jayanth's GitHub lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SJ-Kumar&show_icons=true&theme=radical)
-
 	
-## 📈 My GitHub Stats
-### GitHub Stars
-
-![Jayanth's Github Stats](https://github-readme-stats.vercel.app/api?username=SJ-Kumar&show_icons=true&theme=radical)
-
-### Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJ-Kumar&layout=compact)](https://github.com/SJ-Kumar/github-readme-stats)	
-
 ## 📦 NPM Packages Published by Me
 ![npm](https://img.shields.io/npm/dt/react-notification-timeline?label=react-notification-timeline&style=plastic)	
 	
@@ -92,7 +82,20 @@
 
 
   ## 📚 My Latest Medium Articles
+Here are TOP-10 that I like most about my work. 😀
 
+<details>
+  <summary>CLICK to See my TOP-10 Blog Articles</summary>
+  <p>
+
+<!-- BLOG-POST-LIST:START -->
+    
+1. [What are Pure Functions?]([https://blog.greenroots.info/what-are-pure-functions-and-side-effects-in-javascript](https://github-readme-medium-recent-article.vercel.app/medium/@jayanthkumar597/0))
+	
+  <!-- BLOG-POST-LIST:END -->
+  </p>
+</details>	
+	
 <h3 dir="auto"><a id="user-content-check-out-my-latest-articles" class="anchor" aria-hidden="true" href="#check-out-my-latest-articles"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Check out my latest articles.</h3>
 <p dir="auto"><a href="https://github-readme-medium-recent-article.vercel.app/medium/@jayanthkumar597/0" rel="nofollow"><img src="https://github.com/SJ-Kumar/Jayanth-s-Profile-Site/blob/d6b117cd873a3a55c0c9e49e07b5eeb0335a2edf/article0.jpg" alt="Recent Article 0" data-canonical-src="https://github-readme-medium-recent-article.vercel.app/medium/@jayanthkumar597/0" style="max-width: 100%;">
 </a>
