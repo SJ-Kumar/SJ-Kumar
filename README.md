@@ -152,3 +152,5 @@ For support, please email jayanthkumar597@gmail.com
 		</td>
 	</tr>
 </table>
+	
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=SJ-Kumar&repo=My-Portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)	
