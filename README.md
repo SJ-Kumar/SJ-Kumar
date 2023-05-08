@@ -71,15 +71,18 @@
   ### GitHub Contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SJ-Kumar&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideNums=C1D72E&sideLabels=FFFFFF&currStreakNum=5D9732&ring=C1D72E&fire=C7DD81&currStreakLabel=5D9732)](https://SJ-Kumar.github.io)
 <br>
-
+	[![GitHub Streak](https://streak-stats.demolab.com/?user=SJ-Kumar&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideNums=C1D72E&sideLabels=FFFFFF&currStreakNum=5D9732&ring=C1D72E&fire=C7DD81&currStreakLabel=5D9732)](https://git.io/streak-stats)
+<br>
 ![Jayanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJ-Kumar&show_icons=true&theme=radical) ![Jayanth's GitHub lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SJ-Kumar&show_icons=true&theme=radical)
-
+	
+## 📦 NPM Packages Published by Me
+![npm](https://img.shields.io/npm/dt/react-notification-timeline?label=react-notification-timeline&style=plastic)	
+	
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/iUAZ-tkRQeyftdtK2_vRag?identity__email=jayanthkumar.s2021%40vitstudent.ac.in"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/iUAZ-tkRQeyftdtK2_vRag/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman Student Expert</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>Oct 8, 2022</p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FiUAZ-tkRQeyftdtK2_vRag%3Fidentity__email%3Djayanthkumar.s2021%2540vitstudent.ac.in&amp;identity__email=jayanthkumar.s2021%40vitstudent.ac.in" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></p></blockquote>
 
 
   ## 📚 My Latest Medium Articles
-
-<h3 dir="auto"><a id="user-content-check-out-my-latest-articles" class="anchor" aria-hidden="true" href="#check-out-my-latest-articles"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Check out my latest articles.</h3>
+	
 <p dir="auto"><a href="https://github-readme-medium-recent-article.vercel.app/medium/@jayanthkumar597/0" rel="nofollow"><img src="https://github.com/SJ-Kumar/Jayanth-s-Profile-Site/blob/d6b117cd873a3a55c0c9e49e07b5eeb0335a2edf/article0.jpg" alt="Recent Article 0" data-canonical-src="https://github-readme-medium-recent-article.vercel.app/medium/@jayanthkumar597/0" style="max-width: 100%;">
 </a>
 <p dir="auto"><a href="https://github-readme-medium-recent-article.vercel.app/medium/@jayanthkumar597/1" rel="nofollow"><img src="https://github.com/SJ-Kumar/Jayanth-s-Profile-Site/blob/d6b117cd873a3a55c0c9e49e07b5eeb0335a2edf/article1.jpg" alt="Recent Article 1" data-canonical-src="https://github-readme-medium-recent-article.vercel.app/medium/@jayanthkumar597/1" style="max-width: 100%;">
@@ -96,7 +99,7 @@ SJ-Kumar/SJ-Kumar is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<div align="left">
 Profile Page
 https://profile-git-main-sj-kumar.vercel.app/
 
@@ -149,3 +152,5 @@ For support, please email jayanthkumar597@gmail.com
 		</td>
 	</tr>
 </table>
+	
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=SJ-Kumar&repo=My-Portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)	
