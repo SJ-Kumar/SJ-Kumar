@@ -1,6 +1,9 @@
 import os
 import requests
-from oauth2 import Client, WebApplicationClient
+import oauthlib
+import oauth2
+import oauth2_client
+from oauth2.clients import WebApplicationClient
 
 # Set up the OAuth2 client
 client_id = os.environ['CLIENT_ID']
