@@ -68,13 +68,13 @@
 [![Hackerrank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jayanthkumar597)
 [![Leetcode Badge](https://img.shields.io/badge/Leetcode-3B4654?style=flat&logo=Leetcode&logoColor=white)](https://www.leetcode.com/jayanthkumar597/)
   
-### GitHub Contributions
+  ### GitHub Contributions
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SJ-Kumar&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideNums=C1D72E&sideLabels=FFFFFF&currStreakNum=5D9732&ring=C1D72E&fire=C7DD81&currStreakLabel=5D9732)](https://SJ-Kumar.github.io)
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SJ-Kumar&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideNums=C1D72E&sideLabels=FFFFFF&currStreakNum=5D9732&ring=C1D72E&fire=C7DD81&currStreakLabel=5D9732)](https://git.io/streak-stats)
+	[![GitHub Streak](https://streak-stats.demolab.com/?user=SJ-Kumar&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideNums=C1D72E&sideLabels=FFFFFF&currStreakNum=5D9732&ring=C1D72E&fire=C7DD81&currStreakLabel=5D9732)](https://git.io/streak-stats)
 <br>
 ![Jayanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJ-Kumar&show_icons=true&theme=radical) ![Jayanth's GitHub lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SJ-Kumar&show_icons=true&theme=radical)
-
-	
+		
 ## 📦 NPM Packages Published by Me
 ![npm](https://img.shields.io/npm/dt/react-notification-timeline?label=react-notification-timeline&style=plastic)	
 	
