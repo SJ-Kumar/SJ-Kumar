@@ -68,11 +68,12 @@
 [![Hackerrank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jayanthkumar597)
 [![Leetcode Badge](https://img.shields.io/badge/Leetcode-3B4654?style=flat&logo=Leetcode&logoColor=white)](https://www.leetcode.com/jayanthkumar597/)
   
-  ### GitHub Contributions
+### GitHub Contributions
 <br>
 	[![GitHub Streak](https://streak-stats.demolab.com/?user=SJ-Kumar&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideNums=C1D72E&sideLabels=FFFFFF&currStreakNum=5D9732&ring=C1D72E&fire=C7DD81&currStreakLabel=5D9732)](https://git.io/streak-stats)
 <br>
 ![Jayanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJ-Kumar&show_icons=true&theme=radical) ![Jayanth's GitHub lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SJ-Kumar&show_icons=true&theme=radical)
+
 	
 ## 📦 NPM Packages Published by Me
 ![npm](https://img.shields.io/npm/dt/react-notification-timeline?label=react-notification-timeline&style=plastic)	
@@ -150,7 +151,6 @@ For support, please email jayanthkumar597@gmail.com
 			</p>
 		</td>
 	</tr>
-	<tr><td>[a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=@Jayanth_2003&theme=dracula&response=true&border=true&time=true&icon=default"/></a>](https://gtce.itsvg.in/api?username=Jayanth_2003&theme=dark)</td></tr>
-</table>
+	</table>
 	
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=SJ-Kumar&repo=My-Portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)	
+	
