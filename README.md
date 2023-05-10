@@ -1,18 +1,5 @@
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-<div align="left">
-- 👋 Hi, I’m @SJ-Kumar <br>
-- 👀 I’m interested in Python, Java and all latest frameworks.<br>
-- 🌱 I’m currently learning Java.<br>
-- 💞️ I’m looking to collaborate on applications being developed using python.<br>
-- 📫 You can ping me at any online means.<br>
-
- <br>
- 
-![visitors](https://komarev.com/ghpvc/?username=SJ-Kumar&style=flat-square&label=Visitors&color=5d9732)
-
 <br/>
-
 <h3 align="center" style="color:yellow;margin-bottom: 15px;" >Deeply exploring with⚒️</h3> 
 <div align="center">
 
@@ -125,6 +112,8 @@ https://sj-kumar.github.io/Chat%20profile%20portfolio/index.html
 RepoFinder
 https://py-projects-8nts682b9-sj-kumar.vercel.app/
 
+![visitors](https://komarev.com/ghpvc/?username=SJ-Kumar&style=flat-square&label=Visitors&color=5d9732)
+	
 ## License
 MIT
 
@@ -150,5 +139,6 @@ For support, please email jayanthkumar597@gmail.com
 		</td>
 	</tr>
 	</table>
-	
+
+
 	
