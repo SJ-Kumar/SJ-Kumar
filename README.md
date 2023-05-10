@@ -1,18 +1,5 @@
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-<div align="left">
-- 👋 Hi, I’m @SJ-Kumar <br>
-- 👀 I’m interested in Python, Java and all latest frameworks.<br>
-- 🌱 I’m currently learning Java.<br>
-- 💞️ I’m looking to collaborate on applications being developed using python.<br>
-- 📫 You can ping me at any online means.<br>
-
- <br>
- 
-![visitors](https://komarev.com/ghpvc/?username=SJ-Kumar&style=flat-square&label=Visitors&color=5d9732)
-
 <br/>
-
 <h3 align="center" style="color:yellow;margin-bottom: 15px;" >Deeply exploring with⚒️</h3> 
 <div align="center">
 
@@ -71,10 +58,8 @@
   ### GitHub Contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SJ-Kumar&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideNums=C1D72E&sideLabels=FFFFFF&currStreakNum=5D9732&ring=C1D72E&fire=C7DD81&currStreakLabel=5D9732)](https://SJ-Kumar.github.io)
 <br>
-	[![GitHub Streak](https://streak-stats.demolab.com/?user=SJ-Kumar&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideNums=C1D72E&sideLabels=FFFFFF&currStreakNum=5D9732&ring=C1D72E&fire=C7DD81&currStreakLabel=5D9732)](https://git.io/streak-stats)
-<br>
 ![Jayanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJ-Kumar&show_icons=true&theme=radical) ![Jayanth's GitHub lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SJ-Kumar&show_icons=true&theme=radical)
-	
+		
 ## 📦 NPM Packages Published by Me
 ![npm](https://img.shields.io/npm/dt/react-notification-timeline?label=react-notification-timeline&style=plastic)	
 	
@@ -127,6 +112,8 @@ https://sj-kumar.github.io/Chat%20profile%20portfolio/index.html
 RepoFinder
 https://py-projects-8nts682b9-sj-kumar.vercel.app/
 
+![visitors](https://komarev.com/ghpvc/?username=SJ-Kumar&style=flat-square&label=Visitors&color=5d9732)
+	
 ## License
 MIT
 
@@ -151,6 +138,7 @@ For support, please email jayanthkumar597@gmail.com
 			</p>
 		</td>
 	</tr>
-</table>
+	</table>
+
+
 	
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=SJ-Kumar&repo=My-Portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)	
