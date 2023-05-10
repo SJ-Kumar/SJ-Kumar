@@ -7,13 +7,17 @@ print(app.template_folder)
 
 # Set up the APIs
 #blog_api_key = 'YOUR_BLOG_API_KEY'
-twitter_api_key = 'row4wiYlu5Hac8xU7JZfzzywo'
-twitter_api_secret_key = 'fL948RNIZFY4ziQaiixD4k9r6SpQklEu0SQV1Im28sH4iEXq8w'
+#twitter_api_key = 'row4wiYlu5Hac8xU7JZfzzywo'
+twitter_api_key = 'ttu1PBmFPwNb73uSOSIL3Mf3i'
+# twitter_api_secret_key = 'fL948RNIZFY4ziQaiixD4k9r6SpQklEu0SQV1Im28sH4iEXq8w'
+twitter_api_secret_key = 'XKkV7ic2bkPsNdbuC6LwWMunbHwM3apy63VXcUNVlemjs3GXMt'
+
 linkedin_api_key = 'fL948RNIZFY4ziQaiixD4k9r6SpQklEu0SQV1Im28sH4iEXq8w'
 
 # Set up the Tweepy API
 auth = tweepy.OAuthHandler(twitter_api_key, twitter_api_secret_key)
-auth.set_access_token('16052053-r6Hv7d6wzXLRAllIgyV0TLVZjHV4Npfq4HcL8ZwpR', '2EPgQ6xc8ae7L5zid1bEeSx8E2aXPe1T1cCVHGBw6ismg')
+# auth.set_access_token('16052053-r6Hv7d6wzXLRAllIgyV0TLVZjHV4Npfq4HcL8ZwpR', '2EPgQ6xc8ae7L5zid1bEeSx8E2aXPe1T1cCVHGBw6ismg')
+auth.set_access_token('16052053-DfEnD05yMvMlxEwqPW62PM24J1ThjNJ3C271q8vvU', 'F9pCuyEB3iNa6UfDgmLvJ34TJgcQPCnjoBd1UpRmUw93Q')
 api = tweepy.API(auth)
 
 # Set up the PyLinkedIn API
