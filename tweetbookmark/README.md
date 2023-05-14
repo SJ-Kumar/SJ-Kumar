@@ -1,4 +1,4 @@
-# Twitter Filter
+# Twitter Bookmark
 
 Sometimes when I see a intresting twitter account I want to know
 what their followers liked or retweeted the most.
