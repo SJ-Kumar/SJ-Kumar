@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TXT6313TGG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TXT6313TGG');
+</script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Twitter Top Content Filter</title>
+  <style>
+  .nonono {
+  display: none;
+  margin: 4px 0;
+  color: #ef344d;
+}
+
+body {
+  font-family:Avenir,Helvetica,Arial,sans-serif;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+  color:#2c3e50
+}
+
+h3 {
+  text-align: center
+}
+a.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 140px;
+  height: 24px;
+  border: 1px solid;
+  margin: 4px;
+  text-decoration: none
+}
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+}
+.buttons {
+  margin: 14px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.demo {
+  margin-top: 10px;
+}
+
+</style>
+</head>
+<body>
+  <div class='container'>
+
+    <h3>Find the most popular tweets from a Twitter user</h3>
+    Drag one of these filter buttons
+    into the bookmarks bar, and click it while browsing a Twitter profile.
+  <div class='buttons'>
+    <div id='retweets'></div>
+    <div id='likes'></div>
+  </div>
+  <div class='nonono'>
+These links work on twitter.com only. Drag them into the bookmarks bar, no need to click them here.
+  </div>
+  <div>
+  Learn more about this project <a href='https://github.com/SJ-Kumar/tweetbookmark'>on github</a> or
+  see animation below to better understand it:
+</div>
+  <img class='demo' src='demo_book_l0.gif' style='max-width: 600px; width: 100%;'>
+  </div>
+<script>
+
+function template(minCount) {
+  return [
+    'javascript:',
+'var userMatch = window.location.href.match(/:\\/\\/twitter.com\\/([^?\/#]+)/);',
+'var user = userMatch && userMatch[1];',
+'if (user === "search"){',
+'  var search = decodeURIComponent(window.location.search).match(/from:(.+?)\\b/);',
+'  user = search && search[1];',
+'}',
+'var query = `from:${user} ' + minCount +'`;',
+'window.location.href=`/search?q=${encodeURIComponent(query)}`;'
+].join('')
+}
+
+let retweetsContainer = document.querySelector('#retweets');
+[10, 20, 50, 100, 500, 1000, 2000, 5000, 10000].forEach((count) => {
+  addLink(retweetsContainer, template('min_retweets:' + count), count + '+ retweets')
+});
+
+let likesContainer =  document.querySelector('#likes');
+[10, 50, 500, 1000, 2000, 5000, 10000, 20000, 40000].forEach((count) => {
+  addLink(likesContainer, template('min_faves:' + count), count + '+ likes')
+})
+
+function addLink(container, href, name) {
+  let a = document.createElement('a');
+  a.classList.add('btn')
+  a.href = href;
+  a.title = 'Drag into bookmark bar and click on twitter\'s user profile page'
+  a.innerText = name;
+  container.appendChild(a);
+  a.onclick = printNoNoNo;
+}
+
+function printNoNoNo(e) {
+  let help = document.querySelector('.nonono');
+  help.style.display = 'visible';
+  e.preventDefault();
+  return false;
+}
+</script>
+</body>
+</html>
