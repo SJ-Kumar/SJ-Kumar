@@ -1,4 +1,4 @@
-# Twitter Filter
+# Twitter Bookmark
 
 Sometimes when I see a intresting twitter account I want to know
 what their followers liked or retweeted the most.
@@ -21,7 +21,7 @@ Next time when you are browsing twitter profile - click on the bookmark
 
 # support
 
-If you enjoy this, buy me a [cup of coffee at Rameswaram Cafe]!
+If you enjoy this, buy me a cup of coffee at Rameswaram Cafe!
 
 # license
 
