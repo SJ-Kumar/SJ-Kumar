@@ -14,6 +14,7 @@ def generate_docs(source_dir, destination_dir):
     shutil.copytree(source_dir, os.path.join(tmp_dir, 'docs'))
 
     # Generate a basic MkDocs configuration
+    # Test
     mkdocs_config = {
         'site_name': 'My Documentation',
         'docs_dir': 'docs',
