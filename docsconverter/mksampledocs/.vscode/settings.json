@@ -1,0 +1,19 @@
+{
+    "python.linting.mypyEnabled": true,
+    "python.linting.enabled": true,
+    "python.analysis.typeCheckingMode": "off",
+    "files.insertFinalNewline": true,
+    "editor.formatOnSave": true,
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "black",
+    "prettier.tabWidth": 4,
+    "prettier.useTabs": true,
+    "prettier.endOfLine": "auto",
+    "prettier.proseWrap": "never",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python",
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        }
+    }
+}

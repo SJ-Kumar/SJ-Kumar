@@ -1,0 +1,176 @@
+---
+nav:
+  - Home: index.md
+  - Get Started:
+      - Installation:
+          - Start a New Project: start/start-a-new-project.md
+          - Add IDOM to a Website: start/add-idom-to-a-website.md
+          - Editor Setup: start/editor-setup.md
+          - Developer Tools: start/developer-tools.md
+      - Quick Start:
+          - 'Tutorial: Tic-Tac-Toe': start/tutorial-tic-tac-toe.md
+          - 'Tutorial: React Bootstrap': start/tutorial-react-bootstrap.md
+          - Thinking in IDOM: start/thinking-in-idom.md
+  - Learn IDOM:
+      - Describing the UI:
+          - Your First Component: learn/your-first-component.md
+          - Importing and Exporting Components: learn/importing-and-exporting-components.md
+          - Writing Markup with Python: learn/writing-markup-with-python.md
+          - Passing Args to a Component: learn/passing-args-to-a-component.md
+          - Conditional Rendering: learn/conditional-rendering.md
+          - Rendering Lists: learn/rendering-lists.md
+          - Keeping Components Pure: learn/keeping-components-pure.md
+      - Adding Interactivity:
+          - Responding to Events: learn/responding-to-events.md
+          - "State: A Component's Memory": learn/state-a-components-memory.md
+          - Render and Commit: learn/render-and-commit.md
+          - State as a Snapshot: learn/state-as-a-snapshot.md
+          - Queueing a Series of State Updates: learn/queueing-a-series-of-state-updates.md
+          - Updating Objects in State: learn/updating-objects-in-state.md
+          - Updating Arrays in State: learn/updating-arrays-in-state.md
+      - Managing State:
+          - Reacting to Input with State: learn/reacting-to-input-with-state.md
+          - Choosing the State Structure: learn/choosing-the-state-structure.md
+          - Sharing State Between Components: learn/sharing-state-between-components.md
+          - Preserving and Resetting State: learn/preserving-and-resetting-state.md
+          - Extracting State Logic into a Reducer: learn/extracting-state-logic-into-a-reducer.md
+          - Passing Data Deeply with Context: learn/passing-data-deeply-with-context.md
+          - Scaling Up with Reducer and Context: learn/scaling-up-with-reducer-and-context.md
+      - Escape Hatches:
+          - Referencing Values with Refs: learn/referencing-values-with-refs.md
+          - Manipulating the DOM with Refs: learn/manipulating-the-dom-with-refs.md
+          - Synchronizing with Effects: learn/synchronizing-with-effects.md
+          - You Might Not Need an Effect: learn/you-might-not-need-an-effect.md
+          - Lifecycle of Reactive Effects: learn/lifecycle-of-reactive-effects.md
+          - Separating Events from Effects: learn/separating-events-from-effects.md
+          - Removing Effect Dependencies: learn/removing-effect-dependencies.md
+          - Javascript Components:
+              - Import Module from a File: learn/import-module-from-a-file.md
+              - Import Module from a URL: learn/import-module-from-a-url.md
+              - Communicate to the Server: learn/communicate-to-the-server.md
+          - HTML String Conversions:
+              - Convert between VDOM and HTML: learn/convert-between-vdom-and-html.md
+              - VDOM Mutations: learn/vdom-mutations.md
+              - Creating Event Handlers: learn/creating-event-handlers.md
+          - Custom HTML Tags: learn/custom-html-tags.md
+          - Custom Hooks: learn/custom-hooks.md
+          - Custom Backends: learn/custom-backends.md
+          - Custom Clients: learn/custom-clients.md
+  - Reference:
+      - HTML:
+          - Common Types: reference/common-types.md
+          - Standard DOM Args: reference/standard-dom-args.md
+          - Supported Events: reference/supported-events.md
+          - Usage: reference/usage.md
+      - Hooks:
+          - Basic:
+              - Use State: reference/use-state.md
+              - Use Effect: reference/use-effect.md
+              - Use Context: reference/use-context.md
+          - Advanced:
+              - Use Reducer: reference/use-reducer.md
+              - Use Callback: reference/use-callback.md
+              - Use Memo: reference/use-memo.md
+              - Use Ref: reference/use-ref.md
+              - Use Debug Value: reference/use-debug-value.md
+          - Backend Specific:
+              - Use Connection: reference/use-connection.md
+              - Use Scope: reference/use-scope.md
+              - Use Location: reference/use-location.md
+      - Backends:
+          - FastAPI: reference/fastapi.md
+          - Flask: reference/flask.md
+          - Sanic: reference/sanic.md
+          - Starlette: reference/starlette.md
+          - Tornado: reference/tornado.md
+          - Django: reference/django.md
+          - Jupyter: reference/jupyter.md
+          - Plotly Dash: reference/plotly-dash.md
+      - Protocol Structure: reference/protocol-structure.md
+      - Client API: reference/client-api.md
+  - About IDOM:
+      - Community: about/community.md
+      - Contribute:
+          - Code: about/code.md
+          - Docs: about/docs.md
+          - Running Tests: about/running-tests.md
+      - Changelog: about/changelog.md
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  palette:
+    - media: '(prefers-color-scheme: dark)'
+      scheme: slate
+      toggle:
+        icon: material/white-balance-sunny
+        name: Switch to light mode
+      primary: deep-orange
+      accent: orange
+    - media: '(prefers-color-scheme: light)'
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+      primary: black
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.top
+  icon:
+    repo: fontawesome/brands/github
+
+markdown_extensions:
+  - toc:
+      permalink: true
+- pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      linenums: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.inlinehilite
+
+  - admonition
+  - attr_list
+
+plugins:
+  - search
+  - git-authors
+  - include-markdown
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      cache_safe: true
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+  - spellcheck:
+      known_words: dictionary.txt
+      allow_unicode: no
+      ignore_code: yes
+
+extra:
+  generator: false
+
+extra_css:
+  - stylesheets/extra.css
+
+watch:
+  - docs
+  - mkdocs.yml
+  - README.md
+  - CHANGELOG.md
+
+site_name: IDOM Docs
+site_author: Archmonger
+site_description: React for Python developers.
+copyright: Copyright &copy; 2023 IDOM Team
+repo_url: https://github.com/idom-team/idom
+site_url: https://idom-team.github.io/idom
+repo_name: idom-team/idom
+edit_uri: edit/main/docs/src
+docs_dir: docs/src

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Documentation Ready Reckoner</title>
+  <style>
+    body {
+      background-color: #f2f2f2;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      margin: 10px;
+      border-radius: 5px;
+      font-size: 16px;
+      text-decoration: none;
+      color: #ffffff;
+      background-color: #45a049;
+      border: none;
+    }
+
+    .button:hover {
+      background-color: #45a049;
+    }
+
+    #content-frame {
+      width: 100%;
+      height: 600px;
+      border: none;
+    }
+  </style>
+  <script>
+    function displayContent(url) {
+      var iframe = document.getElementById('content-frame');
+      iframe.src = url;
+    }
+  </script>
+</head>
+<body>
+  <h1>PI Tasks for a Product Release Ready Reckoner</h1>
+  <table>
+    <tr>
+      <td>
+        <button class="button" onclick="displayContent('ready-recokner/PI-tasks-for-a-product-release-ready-reckoner_1.0.docx')">Document</button>
+      </td>
+      <td>
+        <button class="button" onclick="displayContent('ready-recokner/PI-tasks-for-a-product-release-ready-reckoner_1.0.pdf')">PDF</button>
+      </td>
+      <td>
+        <button class="button" onclick="displayContent('ready-recokner/Documentation_readyrecokner/PI-tasks-for-a-product-release-ready-reckoner_1.0.html')">HTML</button>
+      </td>
+ <td>
+        <button class="button" onclick="displayContent('ready-recokner/PI-tasks-for-a-product-release-ready-reckoner_1.0.mp4')">Video</button>
+      </td>
+    </tr>
+  </table>
+  <iframe id="content-frame"></iframe>
+</body>
+</html>

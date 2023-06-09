@@ -1,0 +1,158 @@
+/* Hide useless footer */
+.md-footer__inner:not([hidden]) {
+	display: none;
+}
+
+/* Make navbar background color constantly dark */
+.md-tabs,
+.md-header {
+	background-color: var(--md-footer-bg-color--dark);
+}
+
+/* Reduce the insane amounts of white space the default theme has */
+.md-typeset :is(.admonition, details) {
+	margin: 0.55em 0;
+}
+
+.md-typeset .tabbed-labels > label {
+	padding-top: 0;
+	padding-bottom: 0.35em;
+}
+
+/* Less intense green color for admonitions */
+body[data-md-color-scheme="slate"]
+	.md-typeset:is(.admonition, details):is(.question, .help, .faq) {
+	border-color: #366517;
+}
+
+body[data-md-color-scheme="slate"]
+	.md-typeset:-webkit-any(.admonition, details):-webkit-any(
+		.question,
+		.help,
+		.faq
+	) {
+	border-color: #366517;
+}
+
+/* Move the sidebars to the edges of the page */
+.md-main__inner.md-grid {
+	margin-left: 0;
+	margin-right: 0;
+	max-width: unset;
+	display: flex;
+	justify-content: center;
+}
+
+.md-sidebar--primary {
+	margin-right: auto;
+}
+
+.md-sidebar.md-sidebar--secondary {
+	margin-left: auto;
+}
+
+.md-content {
+	max-width: 56rem;
+}
+
+/* Maintain content positioning even if sidebars are disabled via markdown */
+@media screen and (min-width: 76.1875em) {
+	.md-sidebar {
+		display: block;
+	}
+
+	.md-sidebar[hidden] {
+		visibility: hidden;
+	}
+}
+
+/* Sidebar styling */
+@media screen and (min-width: 76.1875em) {
+	.md-nav__title[for="__toc"] {
+		text-transform: uppercase;
+		margin: 0.5rem;
+	}
+
+	.md-nav--lifted > .md-nav__list > .md-nav__item--active > .md-nav__link {
+		color: rgb(133 142 159);
+		margin: 0.5rem;
+	}
+
+	.md-nav__item .md-nav__link {
+		position: relative;
+	}
+
+	.md-nav__link:is(:focus, :hover):not(.md-nav__link--active) {
+		color: unset;
+	}
+
+	.md-nav__item
+		.md-nav__link:is(:focus, :hover):not(.md-nav__link--active):before {
+		content: "";
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		opacity: 0.2;
+		z-index: -1;
+		background-color: grey;
+	}
+
+	.md-nav__item .md-nav__link--active:before {
+		content: "";
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		opacity: 0.15;
+		z-index: -1;
+		background-color: var(--md-typeset-a-color);
+	}
+
+	.md-nav__link {
+		padding: 0.5rem 0.5rem;
+		margin: 0;
+		border-radius: 4px;
+	}
+}
+
+/* Table of Contents styling */
+@media screen and (min-width: 60em) {
+	[data-md-component="sidebar"] .md-nav__title[for="__toc"] {
+		text-transform: uppercase;
+		margin: 0.5rem;
+	}
+
+	[data-md-component="toc"] .md-nav__item .md-nav__link--active {
+		position: relative;
+	}
+
+	[data-md-component="toc"] .md-nav__item .md-nav__link--active:before {
+		content: "";
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		opacity: 0.15;
+		z-index: -1;
+		background-color: var(--md-typeset-a-color);
+	}
+
+	[data-md-component="toc"] .md-nav__link {
+		padding: 0.5rem 0.5rem;
+		margin: 0;
+		border-radius: 4px;
+	}
+}
+
+/* Page background color */
+[data-md-color-scheme="slate"] {
+	--md-hue: 220;
+	--md-default-bg-color: hsla(var(--md-hue), 15%, 16%, 1);
+	--md-default-bg-color--light: hsla(var(--md-hue), 15%, 16%, 0.54);
+	--md-default-bg-color--lighter: hsla(var(--md-hue), 15%, 16%, 0.26);
+	--md-default-bg-color--lightest: hsla(var(--md-hue), 15%, 16%, 0.07);
+}

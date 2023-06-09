@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Product Terminology</title>
+  <style>
+    .content {
+      display: none;
+    }
+    
+    h1 {
+      color: #4d4dff;
+    }
+    
+    h2 {
+      color: #ff704d;
+    }
+    
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-bottom: 20px;
+    }
+    
+    th, td {
+      border: 1px solid #ccc;
+      padding: 8px;
+      text-align: left;
+    }
+    
+    th {
+      background-color: #4d4dff;
+      color: #fff;
+    }
+    
+    td {
+      background-color: #e6e6e6;
+    }
+    
+    a {
+      color: #ff704d;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+  <script>
+    function showContent(id) {
+      var contents = document.getElementsByClassName("content");
+      for (var i = 0; i < contents.length; i++) {
+        contents[i].style.display = "none";
+      }
+      document.getElementById(id).style.display = "block";
+    }
+
+  window.addEventListener('DOMContentLoaded', function() {
+      var container = document.querySelector("div");
+      var productTerms = container.querySelectorAll("h2");
+      var sortedProductTerms = Array.from(productTerms).sort(function(a, b) {
+        return a.textContent.localeCompare(b.textContent);
+      });
+      
+      sortedProductTerms.forEach(function(term) {
+        container.appendChild(term);
+      });
+    });
+  </script>
+  </script>
+</head>
+<body>
+  <h1>Product Terminology</h1>
+<table><tr> <td>
+  <h2><a href="#" onclick="showContent('product-term-1')">DCTM</a></h2>
+  <h2><a href="#" onclick="showContent('product-term-2')">Documentum Server</a></h2>
+  <h2><a href="#" onclick="showContent('product-term-3')">Build</a></h2>
+</td></tr></table>
+  <div class="content" id="product-term-1">
+    <h3>DCTM</h3>
+<p><b>Definition:</b> DCTM stands for Documentum. Always use Documentum Server in product documentation. Do not use the abbreviation DCTM in a statement unless it is part of an UI element, command/code snippet, variable, file name, object name, and so on.</p>	
+    <table>
+      <thead>
+        <tr>
+          <th>Correct Usage</th>
+          <th>Incorrect Usage</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+
+Correct
+
+Statement: A data dictionary describes each of the object types in the Documentum system.
+
+UI element: On the Types page, select All or DCTM Types from the Filter Type list.
+
+Code snippet: typedef char * (*DCTMPLUGINCALLBACK)(long, char *,char *,int) (Correct)</td>
+          <td>A data dictionary describes each of the object types in the DCTM system. (Incorrect)</td>
+        </tr>
+        <tr>
+          <td>Example 2 (Correct)</td>
+          <td>Example 2 (Incorrect)</td>
+        </tr>
+        <tr>
+          <td>Example 3 (Correct)</td>
+          <td>Example 3 (Incorrect)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="content" id="product-term-2">
+    <h3><b>Documentum Server</b></h3>
+<p><b>Definition:</b> Documentum Server manages content in a repository. Documentum Server provides the essential capabilities for organizing, controlling, and accessing enterprise content stored within a repository.
+
+Documentum Content Server has been renamed as Documentum Server. Always use Documentum Server in product documentation. Do not use Documentum Content Server, Content Server, CS, and DS.</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Correct Usage</th>
+          <th>Incorrect Usage</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Correct
+Documentum Server uses network locations to determine the content storage location from which a content file is provided to web client users. (Correct)</td>
+          <td>Documentum Content Server uses network locations to determine the content storage location from which a content file is provided to web client users.
+
+
+Content Server uses network locations to determine the content storage location from which a content file is provided to web client users.
+
+CS uses network locations to determine the content storage location from which a content file is provided to web client users. (Incorrect)</td>
+        </tr>
+        <tr>
+          <td>Example 2 (Correct)</td>
+          <td>Example 2 (Incorrect)</td>
+        </tr>
+        <tr>
+          <td>Example 3 (Correct)</td>
+          <td>Example 3 (Incorrect)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="content" id="product-term-3">
+    <h3>Build</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>Correct Usage</th>
+          <th>Incorrect Usage</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Example 1 (Correct)</td>
+          <td>Example 1 (Incorrect)</td>
+        </tr>
+        <tr>
+          <td>Example 2 (Correct)</td>
+          <td>Example 2 (Incorrect)</td>
+        </tr>
+        <tr>
+          <td>Example 3 (Correct)</td>
+          <td>Example 3 (Incorrect)</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+ 
+</body>
+</html>
