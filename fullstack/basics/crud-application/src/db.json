@@ -39,6 +39,16 @@
 			"name": "jaswin",
 			"email": "$2a$10$VW9rL5ryjlgYwuIWPd3VyOWpcKe8LLGjPdmkB5i5gVhZcFzh0gDcq",
 			"password": "$2a$10$do2CP8hyq8O47p8iE.f2ZODOROzZFmzg9UMwPafD.VTYoXYWDBwiy"
+		},
+		{
+			"name": "babus",
+			"email": "$2a$10$Ahj14q4RxzC7bVg0AiJo/u0TtujQSMMVWAfQ6RtZ3uAqC229PwgMK",
+			"password": "$2a$10$s1cjLBzNEeH6zELgapAP1OZWMTJ7ua8O3l8ZRG86KTWRPNCcUF3B."
+		},
+		{
+			"name": "ss",
+			"email": "$2a$10$polGiByQZnMaYolawGRIL.OoeGs76zLXN99unj1xMZtts8oan7WHy",
+			"password": "$2a$10$VNySwsxc8RukodVlXnBERejz89C8S/njgtl6MEMTvzVaVWdQ.NunK"
 		}
 	]
 }
