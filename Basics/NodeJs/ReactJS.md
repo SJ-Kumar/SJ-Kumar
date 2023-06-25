@@ -19,7 +19,6 @@ JSX (JavaScript XML) is a syntax extension in React.js that allows you to write 
 It provides a concise and familiar way to describe the structure and appearance of UI components. 
 JSX is transpiled into regular JavaScript function calls, which are then executed by React to render components. 
 Here's an example:<br>
-
 const element = <h1>Hello, World!</h1>;
 
 ### What is the difference between React components and elements?	
@@ -46,7 +45,7 @@ const [count, setCount] = useState(0);
 In React, form handling involves capturing and managing user input from HTML form elements. 
 You can store form input in component state using controlled components, where the form elements' values are controlled by React. 
 You can then handle form submission and validation using JavaScript functions. 
-Here's an example of a simple form handling in React:<br>```
+Here's an example of a simple form handling in React:<br>
 
 function MyForm() 
 
