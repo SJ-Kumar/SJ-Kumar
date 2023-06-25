@@ -18,7 +18,8 @@ The key features of React.js include:<br>
 JSX (JavaScript XML) is a syntax extension in React.js that allows you to write HTML-like code in JavaScript. 
 It provides a concise and familiar way to describe the structure and appearance of UI components. 
 JSX is transpiled into regular JavaScript function calls, which are then executed by React to render components. 
-Here's an example:<br>
+Here's an example:
+<br>
 const element = <h1>Hello, World!</h1>;
 
 ### What is the difference between React components and elements?	
