@@ -77,7 +77,11 @@ Explain the concept of the event loop in Node.js.	The event loop in Node.js is a
 
 How can you create an HTTP server in Node.js?
 
-To create an HTTP server in Node.js, you can use the built-in http module. Here's an example: <br>const http = require('http'); const server = http.createServer((req, res) => { res.writeHead(200, {'Content-Type': 'text/plain'}); res.end('Hello, World!'); }); server.listen(3000, () => { console.log('Server is running on port 3000'); });
+To create an HTTP server in Node.js, you can use the built-in http module. Here's an example: <br>
+const http = require('http'); 
+const server = http.createServer((req, res) => { res.writeHead(200, {'Content-Type': 'text/plain'}); 
+res.end('Hello, World!'); }); 
+server.listen(3000, () => { console.log('Server is running on port 3000'); });
 
 How can you read data from a file in Node.js?
 
@@ -92,8 +96,11 @@ npm (Node Package Manager) is the default package manager for Node.js. It allows
 How do you handle errors in Node.js?
 Errors in Node.js can be handled using try-catch blocks or by using error event handlers. Here's an example of using try-catch: <br>
 try
-{ // Code that may throw an error
+{ 
+// Code that may throw an error
+
 } catch (error)
+
 { // Handle the error }
 
 What is Express.js?
