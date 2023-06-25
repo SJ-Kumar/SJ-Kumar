@@ -27,7 +27,9 @@ The `package.json` file contains metadata about the Node.js project, including i
 
 #### How can you use middleware in Express.js?
 Middleware functions are used in Express.js to handle requests and responses. They can be used for tasks such as logging, authentication, parsing request bodies, etc. Below is an example:
+
 const express = require('express');
+
 const app = express();
 
 app.use((req, res, next) => {
