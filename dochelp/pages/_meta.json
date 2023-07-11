@@ -1,0 +1,18 @@
+{
+  "index": "Welcome to my repository",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact",
+    "type": "page",
+    "href": "https://linkedin.com/in/AbhijithGanesh14",
+    "newWindow": true
+  },
+  "table of contents":{
+    "title": "Index",
+    "type":"page",
+    "href": "./toc"
+  }
+}
