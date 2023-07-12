@@ -35,7 +35,7 @@ Estimate the number of daily active users
 Estimate the storage requirements of the system
 
 
-Estimating Daily Active Users (DAU)
+### Estimating Daily Active Users (DAU)
 Daily Active Users (DAU) refers to the unique users who engage with a system or service within a 24-hour period. 
 Estimating DAU helps you gauge the scale of the system, which impacts how you design the system.
 
@@ -60,7 +60,7 @@ Twitter	200
 Uber	50
 Remember, the goal here is not to predict the exact number of users but to prepare for designing a system that can handle its expected load.
 
-Estimating Storage Requirements
+### Estimating Storage Requirements
 Estimating the storage requirements involves understanding the data your system will handle and making rough estimates. 
 This is crucial to inform storage choices and ensure the system can handle its data needs.
 
@@ -72,7 +72,7 @@ Multiply the estimated size per unit by the expected number of units (users, tra
 Factor in data growth over time, data redundancy for fault tolerance, backups, and potential future features.
 Bytes scale up in thousands. An effective way to convert between bytes is to count commas (divide by 1,000). For example, starting with 71,000,000,000 bytes, we can chop off the last three digits after the comma to get 71,000,000 kilobytes. Do this again to get 71,000 megabytes. Once more gives us 71 gigabytes.
 
-Unit	Size
+#### Unit	Size
 Byte	1 B
 Kilobyte	1,024 Bytes
 Megabyte	1,024 KB
@@ -81,7 +81,7 @@ Terabyte	1,024 GB
 It's very useful to have a sense of the storage requirements for basic data types like words, images, and videos. 
 This allows you to move quickly through this section in the interview.
 
-Data Type	Estimated Size
+#### Data Type	Estimated Size
 1 Character	1 Byte
 1 Word (5 characters avg.)	5 Bytes
 1 Page of text (500 words avg.)	2,500 Bytes or ~2.5 KB
@@ -90,7 +90,8 @@ Data Type	Estimated Size
 1 Minute of Audio (MP3)	1 MB
 1 Minute of Video (standard 480p)	50 - 150 MB
 1 Minute of Video (HD 1080p)	200 - 300 MB
-CAP Theorem
+
+### CAP Theorem
 Understanding the CAP theorem and its implications is a fundamental step in any system design interview. 
 This theorem is particularly important when designing distributed systems, as it helps guide decisions regarding trade-offs between consistency, availability, and partition tolerance.
 
