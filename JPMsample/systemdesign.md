@@ -125,3 +125,48 @@ It guides the decision-making process when designing the architecture and select
 For instance, a system like a bank's database that cannot afford any inconsistency might opt for a CP system, sacrificing availability during a network partition. 
 On the other hand, a service like a social media platform might prefer to be always available and allow temporary inconsistencies, opting for an AP system.
 
+
+## Choosing a System Architectures
+When discussing the high level overview, it's important to consider the tradeoffs of different architectures and settle on one that best fits your needs.
+
+Here are some common architectures and their tradeoffs:
+
+Architecture	
+Monolithic Architecture
+Simplicity: Easier to develop and deploy because all components are interwoven and deployed together.
+
+Consistency: Since there's only one codebase, it's easier to maintain consistency in terms of tools, libraries, and processes used.
+
+Efficiency: Inter-component communication can be faster because all components reside in the same process.
+
+Microservices Architecture
+
+Scalability: Each service is independent, so they can be scaled individually based on demand.
+
+Flexibility: Different services can use different technologies that best suit their requirements.
+
+Isolation: Failure in one service doesn't directly affect the others.
+
+Serverless Architecture
+Scalability: The infrastructure scales up and down automatically based on the demand.
+
+Cost-effectiveness: You only pay for the compute time you consume.
+
+Reduced Operational Effort: Server management and capacity planning are handled by the cloud provider.
+
+Event-Driven Architecture
+
+Scalability: Can handle high loads and spikes in traffic.
+
+Flexibility: Components are decoupled, promoting flexibility and evolution of individual parts.
+
+Real-time: Can react to events in real-time.
+
+Service-Oriented Architecture (SOA)
+
+Reusability: Services can be reused across different applications, improving development efficiency.
+
+Flexibility: Allows for loose coupling of services, enabling changes to be made to one service without affecting others.
+
+Each architecture has its unique trade-offs and is suited to different kinds of applications and business requirements.
+
