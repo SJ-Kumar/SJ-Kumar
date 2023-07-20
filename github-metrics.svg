@@ -1478,7 +1478,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Rajatm544/MERN-Ecommerce</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An E-commerce app built using MERN stack. It has 4 social login options and implements email verification as well. Stripe and Paypal payment gateways are implemented.</div>
@@ -1643,7 +1643,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jul 2023, 18:07:56 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 Jul 2023, 18:57:37 (timezone Asia/Calcutta) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
