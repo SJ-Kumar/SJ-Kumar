@@ -3,7 +3,7 @@
 <p align="center"><img src="https://img.shields.io/github/followers/SJ-Kumar.svg?style=social&label=Follow&maxAge=2592000" alt="SJ-Kumar" /> </p>
 
 ## About me :mortar_board:
-I am a third year CSE undergraduate at VIT Chennai with a passion for exploring innovative solutions. Experienced and skilled in MERN stack development. Over the course of my internships, I've honed a diverse skill set, equipping me to address complex coding problems with confidence and creativity. 🧠
+I am a third year CSE undergraduate at VIT Chennai with a passion for exploring innovative solutions. Experienced and skilled in MERN stack development. Over the course of my internships, I've honed a diverse skill set, equipping me to address complex coding problems with confidence and creativity.
 
 ## What I know :computer:
 - **Programming Languages**
@@ -90,3 +90,5 @@ I am a third year CSE undergraduate at VIT Chennai with a passion for exploring 
 			</tbody>
 		</table>
 	</center>
+
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJ-Kumar&layout=compact&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="SJ-Kumar" /> &nbsp &nbsp <img src="https://github-readme-stats.vercel.app/api?username=SJ-Kumar&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" alt="SJ-Kumar" />  </p>
